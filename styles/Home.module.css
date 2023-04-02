@@ -1,16 +1,15 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
 }
 
 .description {
-  display: inherit;
-  justify-content: inherit;
-  align-items: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 0.85rem;
   max-width: var(--max-width);
   width: 100%;
@@ -78,6 +77,40 @@
   align-items: center;
   position: relative;
   padding: 4rem 0;
+}
+
+.label {
+  margin-bottom: 10px;
+}
+
+.selectContainer {
+  width: 300px;
+}
+.radioContainer {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  justify-content: space-between;
+}
+
+.inputBlock, .form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.formInputs {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  padding: 5px;
+  margin-top: 10px;
 }
 
 .center::before {
