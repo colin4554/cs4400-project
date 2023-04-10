@@ -1,0 +1,8816 @@
+[
+ {
+   "value": "Headache"
+ },
+ {
+   "value": "Fatigue"
+ },
+ {
+   "value": "Nausea"
+ },
+ {
+   "value": "Brain fog"
+ },
+ {
+   "value": "Joint pain"
+ },
+ {
+   "value": "Fatigue and tiredness"
+ },
+ {
+   "value": "Anxiety"
+ },
+ {
+   "value": "Diarrhea"
+ },
+ {
+   "value": "Dizziness"
+ },
+ {
+   "value": "Depression"
+ },
+ {
+   "value": "Constipation"
+ },
+ {
+   "value": "Back pain"
+ },
+ {
+   "value": "Neck pain"
+ },
+ {
+   "value": "Abdominal pain"
+ },
+ {
+   "value": "Migraine"
+ },
+ {
+   "value": "Muscle pain"
+ },
+ {
+   "value": "Lower Back Pain"
+ },
+ {
+   "value": "Stomach Pain"
+ },
+ {
+   "value": "Insomnia"
+ },
+ {
+   "value": "Bloating"
+ },
+ {
+   "value": "Chest pain"
+ },
+ {
+   "value": "Hip pain"
+ },
+ {
+   "value": "Sore throat"
+ },
+ {
+   "value": "Shortness of breath"
+ },
+ {
+   "value": "Knee pain"
+ },
+ {
+   "value": "Shoulder pain"
+ },
+ {
+   "value": "Chronic pain"
+ },
+ {
+   "value": "Irritability"
+ },
+ {
+   "value": "muscle weakness"
+ },
+ {
+   "value": "lightheadedness"
+ },
+ {
+   "value": "Weakness"
+ },
+ {
+   "value": "Leg pain"
+ },
+ {
+   "value": "Vomiting"
+ },
+ {
+   "value": "heart palpitations"
+ },
+ {
+   "value": "Muscle spasms"
+ },
+ {
+   "value": "Night sweats"
+ },
+ {
+   "value": "Light sensitivity"
+ },
+ {
+   "value": "Vertigo"
+ },
+ {
+   "value": "Hand pain"
+ },
+ {
+   "value": "Foot pain"
+ },
+ {
+   "value": "Stress"
+ },
+ {
+   "value": "Difficulty concentrating"
+ },
+ {
+   "value": "Joint stiffness"
+ },
+ {
+   "value": "Gas"
+ },
+ {
+   "value": "Headaches"
+ },
+ {
+   "value": "Tinnitus"
+ },
+ {
+   "value": "Menstrual cramps"
+ },
+ {
+   "value": "Pelvic pain"
+ },
+ {
+   "value": "exhaustion"
+ },
+ {
+   "value": "Wrist pain"
+ },
+ {
+   "value": "Stomach cramps"
+ },
+ {
+   "value": "Upper back pain"
+ },
+ {
+   "value": "Acid Reflux"
+ },
+ {
+   "value": "nerve pain"
+ },
+ {
+   "value": "Jaw pain"
+ },
+ {
+   "value": "Mood swings"
+ },
+ {
+   "value": "Heartburn"
+ },
+ {
+   "value": "Chronic Fatigue"
+ },
+ {
+   "value": "Tachycardia"
+ },
+ {
+   "value": "Fever"
+ },
+ {
+   "value": "Hot flashes"
+ },
+ {
+   "value": "Muscle twitching"
+ },
+ {
+   "value": "Nasal congestion"
+ },
+ {
+   "value": "Dry mouth"
+ },
+ {
+   "value": "Eye pain"
+ },
+ {
+   "value": "Muscle ache"
+ },
+ {
+   "value": "Right Hip Pain"
+ },
+ {
+   "value": "Sadness"
+ },
+ {
+   "value": "Ankle pain"
+ },
+ {
+   "value": "Cough"
+ },
+ {
+   "value": "Middle Back Pain"
+ },
+ {
+   "value": "Blurred vision"
+ },
+ {
+   "value": "Itchy skin"
+ },
+ {
+   "value": "Right knee pain"
+ },
+ {
+   "value": "Sleep Problems"
+ },
+ {
+   "value": "Mental fatigue"
+ },
+ {
+   "value": "Palpitations"
+ },
+ {
+   "value": "Low mood"
+ },
+ {
+   "value": "panic attacks"
+ },
+ {
+   "value": "acne"
+ },
+ {
+   "value": "Dry eye"
+ },
+ {
+   "value": "left knee pain"
+ },
+ {
+   "value": "Loss of appetite"
+ },
+ {
+   "value": "Excessive sweating"
+ },
+ {
+   "value": "Body aches"
+ },
+ {
+   "value": "Pain"
+ },
+ {
+   "value": "Period"
+ },
+ {
+   "value": "Stiffness"
+ },
+ {
+   "value": "Body aching"
+ },
+ {
+   "value": "Hair loss"
+ },
+ {
+   "value": "Unrefreshing Sleep"
+ },
+ {
+   "value": "Panic Attack"
+ },
+ {
+   "value": "Numbness"
+ },
+ {
+   "value": "Tension headache"
+ },
+ {
+   "value": "Muscle cramps"
+ },
+ {
+   "value": "Dry eyes"
+ },
+ {
+   "value": "Upset stomach"
+ },
+ {
+   "value": "sleepiness"
+ },
+ {
+   "value": "Mouth sores"
+ },
+ {
+   "value": "Tiredness"
+ },
+ {
+   "value": "Rash"
+ },
+ {
+   "value": "Noise Sensitivity"
+ },
+ {
+   "value": "dissociation"
+ },
+ {
+   "value": "hives"
+ },
+ {
+   "value": "IBS"
+ },
+ {
+   "value": "Sound sensitivity"
+ },
+ {
+   "value": "Memory Problems"
+ },
+ {
+   "value": "bowel movements"
+ },
+ {
+   "value": "sinus pain"
+ },
+ {
+   "value": "Itching"
+ },
+ {
+   "value": "Confusion"
+ },
+ {
+   "value": "Dizzyness"
+ },
+ {
+   "value": "Stiff neck"
+ },
+ {
+   "value": "right shoulder pain"
+ },
+ {
+   "value": "Decreased appetite"
+ },
+ {
+   "value": "Elbow pain"
+ },
+ {
+   "value": "Crying"
+ },
+ {
+   "value": "Low back pain"
+ },
+ {
+   "value": "Arm pain"
+ },
+ {
+   "value": "Mouth ulcers"
+ },
+ {
+   "value": "Sensory overload"
+ },
+ {
+   "value": "Swollen lymph nodes"
+ },
+ {
+   "value": "Tremor"
+ },
+ {
+   "value": "left shoulder pain"
+ },
+ {
+   "value": "physical fatigue"
+ },
+ {
+   "value": "nightmares"
+ },
+ {
+   "value": "Suicidal ideation"
+ },
+ {
+   "value": "left hip pain"
+ },
+ {
+   "value": "Frequent urination"
+ },
+ {
+   "value": "Chills"
+ },
+ {
+   "value": "Trouble finding words"
+ },
+ {
+   "value": "Tingling in hands and feet"
+ },
+ {
+   "value": "Mental fog"
+ },
+ {
+   "value": "Blurry Vision"
+ },
+ {
+   "value": "Restless leg syndrome"
+ },
+ {
+   "value": "Bone pain"
+ },
+ {
+   "value": "Numbness fingers"
+ },
+ {
+   "value": "Migraines"
+ },
+ {
+   "value": "Anger"
+ },
+ {
+   "value": "Joint cracking"
+ },
+ {
+   "value": "loss of balance"
+ },
+ {
+   "value": "Dry skin"
+ },
+ {
+   "value": "Lower abdomen pain"
+ },
+ {
+   "value": "Heat intolerance"
+ },
+ {
+   "value": "Chest tightness"
+ },
+ {
+   "value": "Runny nose"
+ },
+ {
+   "value": "Gastrointestinal symptoms"
+ },
+ {
+   "value": "Joint swelling"
+ },
+ {
+   "value": "Rib pain"
+ },
+ {
+   "value": "Finger pain"
+ },
+ {
+   "value": "Morning Stiffness"
+ },
+ {
+   "value": "Neck and shoulder pain"
+ },
+ {
+   "value": "Shaking"
+ },
+ {
+   "value": "Spotting"
+ },
+ {
+   "value": "Flushing"
+ },
+ {
+   "value": "Earache"
+ },
+ {
+   "value": "pins and needles"
+ },
+ {
+   "value": "Memory loss"
+ },
+ {
+   "value": "Subluxation"
+ },
+ {
+   "value": "loose stool"
+ },
+ {
+   "value": "Oversleeping"
+ },
+ {
+   "value": "Restlessness"
+ },
+ {
+   "value": "Fainting"
+ },
+ {
+   "value": "Head Pressure"
+ },
+ {
+   "value": "Swollen glands"
+ },
+ {
+   "value": "Fibro fog"
+ },
+ {
+   "value": "sciatica"
+ },
+ {
+   "value": "TMJ pain"
+ },
+ {
+   "value": "Cold"
+ },
+ {
+   "value": "Breast pain"
+ },
+ {
+   "value": "Lack of Motivation"
+ },
+ {
+   "value": "Temperature Regulation"
+ },
+ {
+   "value": "Low grade fever"
+ },
+ {
+   "value": "Suicidal Thoughts"
+ },
+ {
+   "value": "Shaking hands"
+ },
+ {
+   "value": "Rectal bleeding"
+ },
+ {
+   "value": "Cold feet"
+ },
+ {
+   "value": "difficulty walking"
+ },
+ {
+   "value": "Difficulty breathing"
+ },
+ {
+   "value": "Ringing in ears"
+ },
+ {
+   "value": "Restless legs"
+ },
+ {
+   "value": "Diarrhoea"
+ },
+ {
+   "value": "Social anxiety"
+ },
+ {
+   "value": "intrusive thoughts"
+ },
+ {
+   "value": "Asthma"
+ },
+ {
+   "value": "Indigestion"
+ },
+ {
+   "value": "right wrist pain"
+ },
+ {
+   "value": "Forgetfulness"
+ },
+ {
+   "value": "skin rashes"
+ },
+ {
+   "value": "Cold Extremities "
+ },
+ {
+   "value": "Inflammation"
+ },
+ {
+   "value": "Bloody Stools"
+ },
+ {
+   "value": "Poor Sleep"
+ },
+ {
+   "value": "Hypomania"
+ },
+ {
+   "value": "dislocations"
+ },
+ {
+   "value": "Overheating"
+ },
+ {
+   "value": "swelling"
+ },
+ {
+   "value": "itchy eyes"
+ },
+ {
+   "value": "Flashbacks"
+ },
+ {
+   "value": "shakiness"
+ },
+ {
+   "value": "mood"
+ },
+ {
+   "value": "Migraine aura"
+ },
+ {
+   "value": "Skin sensitivity"
+ },
+ {
+   "value": "Joint Pain and Stiffness"
+ },
+ {
+   "value": "Achiness"
+ },
+ {
+   "value": "Bowel Urgency"
+ },
+ {
+   "value": "Trouble Sleeping"
+ },
+ {
+   "value": "Emotional"
+ },
+ {
+   "value": "Sleeplessness"
+ },
+ {
+   "value": "low blood pressure"
+ },
+ {
+   "value": "Muscle fatigue"
+ },
+ {
+   "value": "lethargy"
+ },
+ {
+   "value": "Neuropathy "
+ },
+ {
+   "value": "ear pain"
+ },
+ {
+   "value": "SI Joint Pain"
+ },
+ {
+   "value": "Poor concentration"
+ },
+ {
+   "value": "Anxiety attack"
+ },
+ {
+   "value": "Dull"
+ },
+ {
+   "value": "excess daytime sleepiness"
+ },
+ {
+   "value": "impaired cognition"
+ },
+ {
+   "value": "sneezing"
+ },
+ {
+   "value": "Low appetite"
+ },
+ {
+   "value": "muscle aches"
+ },
+ {
+   "value": "Eczema"
+ },
+ {
+   "value": "low energy"
+ },
+ {
+   "value": "sleep disturbance"
+ },
+ {
+   "value": "abdominal cramps"
+ },
+ {
+   "value": "Allodynia"
+ },
+ {
+   "value": "Cold hands"
+ },
+ {
+   "value": "Urinary urgency"
+ },
+ {
+   "value": "Self Harm"
+ },
+ {
+   "value": "Difficulty swallowing"
+ },
+ {
+   "value": "tingling"
+ },
+ {
+   "value": "Exercise Intolerance"
+ },
+ {
+   "value": "Swollen ankles and/or swollen feet"
+ },
+ {
+   "value": "Difficulty with speech"
+ },
+ {
+   "value": "Low motivation"
+ },
+ {
+   "value": "Right foot pain"
+ },
+ {
+   "value": "left wrist pain"
+ },
+ {
+   "value": "right ankle pain"
+ },
+ {
+   "value": "Digestive distress"
+ },
+ {
+   "value": "Smell sensitivity"
+ },
+ {
+   "value": "Anhedonia"
+ },
+ {
+   "value": "burning skin"
+ },
+ {
+   "value": "right hand pain"
+ },
+ {
+   "value": "Neck tension"
+ },
+ {
+   "value": "Cramps"
+ },
+ {
+   "value": "Low libido"
+ },
+ {
+   "value": "General Pain"
+ },
+ {
+   "value": "left arm pain"
+ },
+ {
+   "value": "mania"
+ },
+ {
+   "value": "Head Pain"
+ },
+ {
+   "value": "Cold intolerance"
+ },
+ {
+   "value": "Bladder pain"
+ },
+ {
+   "value": "Leg cramps"
+ },
+ {
+   "value": "left ankle pain"
+ },
+ {
+   "value": "Peripheral neuropathy"
+ },
+ {
+   "value": "Vaginal pain"
+ },
+ {
+   "value": "Allergies"
+ },
+ {
+   "value": "Swollen joints"
+ },
+ {
+   "value": "muscle soreness"
+ },
+ {
+   "value": "Derealization"
+ },
+ {
+   "value": "Dizziness upon Standing"
+ },
+ {
+   "value": "Paresthesia"
+ },
+ {
+   "value": "malaise"
+ },
+ {
+   "value": "right arm pain"
+ },
+ {
+   "value": "Costochondritis"
+ },
+ {
+   "value": "Overactive bladder"
+ },
+ {
+   "value": "Sweating"
+ },
+ {
+   "value": "foggy brain"
+ },
+ {
+   "value": "Depressed Mood"
+ },
+ {
+   "value": "pre-syncope "
+ },
+ {
+   "value": "Sleep Quality"
+ },
+ {
+   "value": "hand tremors"
+ },
+ {
+   "value": "Energy Level"
+ },
+ {
+   "value": "left elbow pain"
+ },
+ {
+   "value": "Period Pain"
+ },
+ {
+   "value": "Body pain"
+ },
+ {
+   "value": "Increased appetite"
+ },
+ {
+   "value": "Eye twitch"
+ },
+ {
+   "value": "Stuffy nose"
+ },
+ {
+   "value": "numbness/tingling"
+ },
+ {
+   "value": "lack of focus"
+ },
+ {
+   "value": "general anxiety"
+ },
+ {
+   "value": "OCD"
+ },
+ {
+   "value": "PEM"
+ },
+ {
+   "value": "Lack of Appetite"
+ },
+ {
+   "value": "Leg weakness"
+ },
+ {
+   "value": "Hip pain left"
+ },
+ {
+   "value": "left leg pain"
+ },
+ {
+   "value": "Low blood sugar"
+ },
+ {
+   "value": "Agitation"
+ },
+ {
+   "value": "cramping"
+ },
+ {
+   "value": "temperature sensitivity"
+ },
+ {
+   "value": "Full body pain"
+ },
+ {
+   "value": "Menstruation"
+ },
+ {
+   "value": "Light Headed"
+ },
+ {
+   "value": "slurred speech"
+ },
+ {
+   "value": "Numbness toes"
+ },
+ {
+   "value": "Wheezing"
+ },
+ {
+   "value": "burning sensation "
+ },
+ {
+   "value": "neck stiffness"
+ },
+ {
+   "value": "sinus pressure"
+ },
+ {
+   "value": "Vaginal bleeding"
+ },
+ {
+   "value": "Butterfly rash"
+ },
+ {
+   "value": "Shoulder and Neck Pain"
+ },
+ {
+   "value": "Anxious"
+ },
+ {
+   "value": "Falls"
+ },
+ {
+   "value": "Double vision"
+ },
+ {
+   "value": "Off balance"
+ },
+ {
+   "value": "right leg pain"
+ },
+ {
+   "value": "Raynaud's"
+ },
+ {
+   "value": "Irritable bowel syndrome"
+ },
+ {
+   "value": "Energy"
+ },
+ {
+   "value": "Weight gain"
+ },
+ {
+   "value": "clumsiness"
+ },
+ {
+   "value": "PMS"
+ },
+ {
+   "value": "Intestinal pain"
+ },
+ {
+   "value": "Mid back pain"
+ },
+ {
+   "value": "Hand weakness"
+ },
+ {
+   "value": "hand stiffness"
+ },
+ {
+   "value": "pelvic pain (cramping)"
+ },
+ {
+   "value": "Skin Pain"
+ },
+ {
+   "value": "Inability to focus"
+ },
+ {
+   "value": "Hot flushes"
+ },
+ {
+   "value": "Ear ringing"
+ },
+ {
+   "value": "Light headedness"
+ },
+ {
+   "value": "Trouble falling asleep"
+ },
+ {
+   "value": "left hand pain"
+ },
+ {
+   "value": "Hemorrhoids"
+ },
+ {
+   "value": "Afternoon fatigue"
+ },
+ {
+   "value": "coughing"
+ },
+ {
+   "value": "sinus congestion"
+ },
+ {
+   "value": "Racing thoughts"
+ },
+ {
+   "value": "Muscle pain legs"
+ },
+ {
+   "value": "Jaw Clenching"
+ },
+ {
+   "value": "Allergy"
+ },
+ {
+   "value": "Fluctuating mood"
+ },
+ {
+   "value": "Sleep"
+ },
+ {
+   "value": "feeling faint"
+ },
+ {
+   "value": "Hoarseness"
+ },
+ {
+   "value": "Worry"
+ },
+ {
+   "value": "Aura"
+ },
+ {
+   "value": "Visual Disturbances"
+ },
+ {
+   "value": "Post-Exertional Malaise"
+ },
+ {
+   "value": "Hunger"
+ },
+ {
+   "value": "Lack of concentration"
+ },
+ {
+   "value": "Depressed"
+ },
+ {
+   "value": "Dehydration"
+ },
+ {
+   "value": "Paranoia"
+ },
+ {
+   "value": "Frequent bowel movements"
+ },
+ {
+   "value": "Dizzy"
+ },
+ {
+   "value": "Syncope"
+ },
+ {
+   "value": "right elbow pain"
+ },
+ {
+   "value": "breathlessness"
+ },
+ {
+   "value": "Lack of energy"
+ },
+ {
+   "value": "burning feet"
+ },
+ {
+   "value": "Face pain"
+ },
+ {
+   "value": "Racing Heart"
+ },
+ {
+   "value": "Facial Pain"
+ },
+ {
+   "value": "GERD"
+ },
+ {
+   "value": "post nasal drip"
+ },
+ {
+   "value": "Executive dysfunction"
+ },
+ {
+   "value": "Rapid heartbeat"
+ },
+ {
+   "value": "Facial flushing"
+ },
+ {
+   "value": "Swollen eyes"
+ },
+ {
+   "value": "Itchy Face"
+ },
+ {
+   "value": "Emotional lability"
+ },
+ {
+   "value": "Sensory Sensisivity"
+ },
+ {
+   "value": "Easy bruising"
+ },
+ {
+   "value": "Skin picking"
+ },
+ {
+   "value": "Seizures"
+ },
+ {
+   "value": "No appetite"
+ },
+ {
+   "value": "Apathy"
+ },
+ {
+   "value": "Stomach ache"
+ },
+ {
+   "value": "muscle tightness"
+ },
+ {
+   "value": "Irritable bladder"
+ },
+ {
+   "value": "Allergic reaction"
+ },
+ {
+   "value": "left foot pain"
+ },
+ {
+   "value": "Obsessive Thoughts"
+ },
+ {
+   "value": "Hyperactivity"
+ },
+ {
+   "value": "restless sleep"
+ },
+ {
+   "value": "Flare ups"
+ },
+ {
+   "value": "Toothache"
+ },
+ {
+   "value": "Swollen Fingers"
+ },
+ {
+   "value": "Sciatic Pain"
+ },
+ {
+   "value": "Painful Bowel Movement"
+ },
+ {
+   "value": "Feeling hopeless"
+ },
+ {
+   "value": "Mucus in stool"
+ },
+ {
+   "value": "Dry cough"
+ },
+ {
+   "value": "afternoon sleepiness"
+ },
+ {
+   "value": "Heart Rate"
+ },
+ {
+   "value": "Muscle stiffness"
+ },
+ {
+   "value": "Stiff hands"
+ },
+ {
+   "value": "Generalized pain"
+ },
+ {
+   "value": "high blood pressure"
+ },
+ {
+   "value": "plantar fasciitis"
+ },
+ {
+   "value": "Mucus"
+ },
+ {
+   "value": "bloated"
+ },
+ {
+   "value": "Itch"
+ },
+ {
+   "value": "Eye sensitivity (light/fatigue/focusing)"
+ },
+ {
+   "value": "shaky hands"
+ },
+ {
+   "value": "Rectal pain"
+ },
+ {
+   "value": "Itchiness"
+ },
+ {
+   "value": "extreme fatigue"
+ },
+ {
+   "value": "gas pain"
+ },
+ {
+   "value": "Near syncope"
+ },
+ {
+   "value": "blood in stool"
+ },
+ {
+   "value": "Widespread Pain"
+ },
+ {
+   "value": "myalgia"
+ },
+ {
+   "value": "Weight loss"
+ },
+ {
+   "value": "Hallucinations"
+ },
+ {
+   "value": "Tingling hands"
+ },
+ {
+   "value": "Distended stomach"
+ },
+ {
+   "value": "Vision changes"
+ },
+ {
+   "value": "Word confusion"
+ },
+ {
+   "value": "vivid dreams"
+ },
+ {
+   "value": "Panic"
+ },
+ {
+   "value": "Difficulty thinking"
+ },
+ {
+   "value": "Vaginal itching"
+ },
+ {
+   "value": "Acid Reflux/ Heartburn"
+ },
+ {
+   "value": "difficulty waking up"
+ },
+ {
+   "value": "Dark circles under the eyes"
+ },
+ {
+   "value": "Spasticity"
+ },
+ {
+   "value": "Urinary Frequency"
+ },
+ {
+   "value": "Sleep Paralysis"
+ },
+ {
+   "value": "Difficulty sleeping"
+ },
+ {
+   "value": "Bowel incontinence"
+ },
+ {
+   "value": "blood pooling"
+ },
+ {
+   "value": "migraine pain"
+ },
+ {
+   "value": "loneliness"
+ },
+ {
+   "value": "Incontinence,\n  urine"
+ },
+ {
+   "value": "Hip pain right"
+ },
+ {
+   "value": "Bleeding"
+ },
+ {
+   "value": "feet pain"
+ },
+ {
+   "value": "Sore breasts"
+ },
+ {
+   "value": "Excessive Daytime Sleepiness"
+ },
+ {
+   "value": "Air hunger"
+ },
+ {
+   "value": "Joint weakness"
+ },
+ {
+   "value": "cystic acne"
+ },
+ {
+   "value": "High heart rate"
+ },
+ {
+   "value": "Flu like"
+ },
+ {
+   "value": "Chest pain/discomfort"
+ },
+ {
+   "value": "Lower abdominal pain"
+ },
+ {
+   "value": "Physical exhaustion"
+ },
+ {
+   "value": "Numbness in hands"
+ },
+ {
+   "value": "palpatations"
+ },
+ {
+   "value": "hypoglycemia"
+ },
+ {
+   "value": "Tingling in hand"
+ },
+ {
+   "value": "Kidney Pain"
+ },
+ {
+   "value": "irritable"
+ },
+ {
+   "value": "Lumbar Pain"
+ },
+ {
+   "value": "Chest pressure"
+ },
+ {
+   "value": "Feet swelling"
+ },
+ {
+   "value": "Muscle tension"
+ },
+ {
+   "value": "Flatulence"
+ },
+ {
+   "value": "Binge eating"
+ },
+ {
+   "value": "stomach bloating"
+ },
+ {
+   "value": "Fibromyalgia"
+ },
+ {
+   "value": "Vaginal discharge"
+ },
+ {
+   "value": "Short term memory loss"
+ },
+ {
+   "value": "Drowsiness"
+ },
+ {
+   "value": "Hyperacusis"
+ },
+ {
+   "value": "Ear ache"
+ },
+ {
+   "value": "trouble focusing eyes"
+ },
+ {
+   "value": "fatigue morning"
+ },
+ {
+   "value": "alternating diarrhea and constipation"
+ },
+ {
+   "value": "Thoughts of self-harm"
+ },
+ {
+   "value": "Stabbing pain"
+ },
+ {
+   "value": "Chronic widespread pain"
+ },
+ {
+   "value": "Concentration"
+ },
+ {
+   "value": "Distance/depth perception altered"
+ },
+ {
+   "value": "Muscle pain arms"
+ },
+ {
+   "value": "Cold sore"
+ },
+ {
+   "value": "Bladder frequency"
+ },
+ {
+   "value": "Stomach upset"
+ },
+ {
+   "value": "Overwhelmed"
+ },
+ {
+   "value": "Poor Appetite"
+ },
+ {
+   "value": "photosensitivity"
+ },
+ {
+   "value": "Feel feverish"
+ },
+ {
+   "value": "Fibro pain"
+ },
+ {
+   "value": "Breast tenderness"
+ },
+ {
+   "value": "Tingling in legs"
+ },
+ {
+   "value": "food cravings"
+ },
+ {
+   "value": "Finger swelling"
+ },
+ {
+   "value": "edema"
+ },
+ {
+   "value": "Spine pain"
+ },
+ {
+   "value": "Burning eyes"
+ },
+ {
+   "value": "Sharp pains"
+ },
+ {
+   "value": "Muscle tremors"
+ },
+ {
+   "value": "shaky/ lightheaded"
+ },
+ {
+   "value": "Difficulty urinating"
+ },
+ {
+   "value": "Leg swelling"
+ },
+ {
+   "value": "Tics"
+ },
+ {
+   "value": "Overall pain"
+ },
+ {
+   "value": "Poor coordination"
+ },
+ {
+   "value": "Swollen hands"
+ },
+ {
+   "value": "trouble staying asleep"
+ },
+ {
+   "value": "feeling cold"
+ },
+ {
+   "value": "Breathing pain"
+ },
+ {
+   "value": "gassy"
+ },
+ {
+   "value": "frustration"
+ },
+ {
+   "value": "Throat Tightness"
+ },
+ {
+   "value": "reynauds"
+ },
+ {
+   "value": "Compulsive Behavior"
+ },
+ {
+   "value": "Burping"
+ },
+ {
+   "value": "Thirst"
+ },
+ {
+   "value": "Tinitus"
+ },
+ {
+   "value": "Diahrrea"
+ },
+ {
+   "value": "Abdominal bloating"
+ },
+ {
+   "value": "Hemorrhoid"
+ },
+ {
+   "value": "sinus headache"
+ },
+ {
+   "value": "head aches"
+ },
+ {
+   "value": "Itchy ears"
+ },
+ {
+   "value": "Peeling skin"
+ },
+ {
+   "value": "ovarian pain"
+ },
+ {
+   "value": "depressive mood"
+ },
+ {
+   "value": "Poor Balance"
+ },
+ {
+   "value": "Congestion"
+ },
+ {
+   "value": "Aphasia"
+ },
+ {
+   "value": "Feeling hot"
+ },
+ {
+   "value": "migraine headache"
+ },
+ {
+   "value": "Jittery"
+ },
+ {
+   "value": "Hypersensitive skin"
+ },
+ {
+   "value": "Genital Ulcers"
+ },
+ {
+   "value": "Stomach aches"
+ },
+ {
+   "value": "Hearing loss"
+ },
+ {
+   "value": "Tingling in feet"
+ },
+ {
+   "value": "Buttock pain"
+ },
+ {
+   "value": "left side low back pain"
+ },
+ {
+   "value": "Abdominal cramping"
+ },
+ {
+   "value": "numbness/tingling in leg & foot"
+ },
+ {
+   "value": "Tenderness"
+ },
+ {
+   "value": "Thigh Pain"
+ },
+ {
+   "value": "night terrors"
+ },
+ {
+   "value": "Dizzy spells"
+ },
+ {
+   "value": "poor circulation"
+ },
+ {
+   "value": "vision problems"
+ },
+ {
+   "value": "mast cell degranulation/vibration"
+ },
+ {
+   "value": "Sinus Drainage"
+ },
+ {
+   "value": "trouble swallowing"
+ },
+ {
+   "value": "brainfog"
+ },
+ {
+   "value": "Tailbone Pain"
+ },
+ {
+   "value": "Stomach acid"
+ },
+ {
+   "value": "Moodiness"
+ },
+ {
+   "value": "Nosebleed"
+ },
+ {
+   "value": "Facial numbness"
+ },
+ {
+   "value": "sore eyes"
+ },
+ {
+   "value": "Bumps on skin"
+ },
+ {
+   "value": "rage"
+ },
+ {
+   "value": "Lymphadenopathy"
+ },
+ {
+   "value": "Cognitive dysfunction"
+ },
+ {
+   "value": "painful urination"
+ },
+ {
+   "value": "Happiness"
+ },
+ {
+   "value": "Phlegm"
+ },
+ {
+   "value": "Canker sore"
+ },
+ {
+   "value": "Toe pain"
+ },
+ {
+   "value": "Sore feet"
+ },
+ {
+   "value": "itchy scalp"
+ },
+ {
+   "value": "Bruising"
+ },
+ {
+   "value": "Psoriasis"
+ },
+ {
+   "value": "Nervy Nausea"
+ },
+ {
+   "value": "Urinary Incontinence"
+ },
+ {
+   "value": "Period cramps"
+ },
+ {
+   "value": "itchy"
+ },
+ {
+   "value": "sweats"
+ },
+ {
+   "value": "Painsomnia"
+ },
+ {
+   "value": "achy legs"
+ },
+ {
+   "value": "Eye strain"
+ },
+ {
+   "value": "bowel pain"
+ },
+ {
+   "value": "tremors"
+ },
+ {
+   "value": "gas/bloating"
+ },
+ {
+   "value": "Face rash"
+ },
+ {
+   "value": "Passing Blood"
+ },
+ {
+   "value": "hypotension"
+ },
+ {
+   "value": "heavy limbs"
+ },
+ {
+   "value": "pelvic pain (stabbing)"
+ },
+ {
+   "value": "Heel pain"
+ },
+ {
+   "value": "dropping things"
+ },
+ {
+   "value": "Neck and Back Pain"
+ },
+ {
+   "value": "Ears Ringing"
+ },
+ {
+   "value": "Burning urination"
+ },
+ {
+   "value": "Impulsivity"
+ },
+ {
+   "value": "Bladder spasms"
+ },
+ {
+   "value": "Joint Pain Knees"
+ },
+ {
+   "value": "Hiccups"
+ },
+ {
+   "value": "Morning Fatigue"
+ },
+ {
+   "value": "libido"
+ },
+ {
+   "value": "Difficulty falling asleep"
+ },
+ {
+   "value": "Bowel movement"
+ },
+ {
+   "value": "appetite"
+ },
+ {
+   "value": "Nose sores"
+ },
+ {
+   "value": "Presyncope"
+ },
+ {
+   "value": "coat hanger pain"
+ },
+ {
+   "value": "Queasy stomach"
+ },
+ {
+   "value": "Lack of Interest"
+ },
+ {
+   "value": "Joint redness"
+ },
+ {
+   "value": "Throat swelling"
+ },
+ {
+   "value": "Lung Pain"
+ },
+ {
+   "value": "Pain - hands (joints)"
+ },
+ {
+   "value": "scalp itching"
+ },
+ {
+   "value": "hyperfocus"
+ },
+ {
+   "value": "Unsteady gait"
+ },
+ {
+   "value": "shaky"
+ },
+ {
+   "value": "Back stiffness"
+ },
+ {
+   "value": "Inability to regulate emotions"
+ },
+ {
+   "value": "Orthostatic Intolerance"
+ },
+ {
+   "value": "Hypersomnia"
+ },
+ {
+   "value": "Fast Heart Rate"
+ },
+ {
+   "value": "Self-neglect"
+ },
+ {
+   "value": "Insomnia (previous night)"
+ },
+ {
+   "value": "Rhinitis"
+ },
+ {
+   "value": "Weak legs"
+ },
+ {
+   "value": "Limb pain"
+ },
+ {
+   "value": "foot cramps"
+ },
+ {
+   "value": "sickness"
+ },
+ {
+   "value": "overall body pain"
+ },
+ {
+   "value": "hypertension"
+ },
+ {
+   "value": "Feeling sick"
+ },
+ {
+   "value": "Sore tongue"
+ },
+ {
+   "value": "tearful"
+ },
+ {
+   "value": "Trembling"
+ },
+ {
+   "value": "Twitching"
+ },
+ {
+   "value": "Attention deficit"
+ },
+ {
+   "value": "Numb fingers"
+ },
+ {
+   "value": "Calf pain"
+ },
+ {
+   "value": "Electrical Shock Sensations"
+ },
+ {
+   "value": "Self-Loathing"
+ },
+ {
+   "value": "skin lesions"
+ },
+ {
+   "value": "finger joint pain"
+ },
+ {
+   "value": "Flat affect"
+ },
+ {
+   "value": "Feverish"
+ },
+ {
+   "value": "Hand swelling"
+ },
+ {
+   "value": "Groin pain"
+ },
+ {
+   "value": "memory issues"
+ },
+ {
+   "value": "Unsteadiness"
+ },
+ {
+   "value": "soreness"
+ },
+ {
+   "value": "Inattention"
+ },
+ {
+   "value": "Swollen throat"
+ },
+ {
+   "value": "Esophageal Reflux "
+ },
+ {
+   "value": "Trouble concentrating"
+ },
+ {
+   "value": "Sensivity-Skin"
+ },
+ {
+   "value": "Facial rash"
+ },
+ {
+   "value": "belching"
+ },
+ {
+   "value": "cold sweats"
+ },
+ {
+   "value": "Loose joints"
+ },
+ {
+   "value": "cognitive fog"
+ },
+ {
+   "value": "Sex drive"
+ },
+ {
+   "value": "PTSD"
+ },
+ {
+   "value": "upper abdominal pain"
+ },
+ {
+   "value": "hives/rash"
+ },
+ {
+   "value": "Bowel cramps"
+ },
+ {
+   "value": "hopelessness"
+ },
+ {
+   "value": "Overstimulation"
+ },
+ {
+   "value": "Legs Tingling"
+ },
+ {
+   "value": "Arm joint pain"
+ },
+ {
+   "value": "balance problems"
+ },
+ {
+   "value": "Feeling unable to cope"
+ },
+ {
+   "value": "Mood Changes"
+ },
+ {
+   "value": "flu like symptoms"
+ },
+ {
+   "value": "Ear pressure"
+ },
+ {
+   "value": "Guilt"
+ },
+ {
+   "value": "Cold fingers"
+ },
+ {
+   "value": "Sleep Length"
+ },
+ {
+   "value": "eye pressure"
+ },
+ {
+   "value": "left shoulder blade muscle "
+ },
+ {
+   "value": "Fecal incontinence"
+ },
+ {
+   "value": "Shooting pain in legs"
+ },
+ {
+   "value": "trouble focusing"
+ },
+ {
+   "value": "Heavy legs"
+ },
+ {
+   "value": "pulsatile tinnitus"
+ },
+ {
+   "value": "Brain zap"
+ },
+ {
+   "value": "Shooting pain"
+ },
+ {
+   "value": "Tension"
+ },
+ {
+   "value": "Upper right abdominal pain"
+ },
+ {
+   "value": "Spoon Count"
+ },
+ {
+   "value": "Out of Breath"
+ },
+ {
+   "value": "Nauseau"
+ },
+ {
+   "value": "scratchy throat"
+ },
+ {
+   "value": "falling"
+ },
+ {
+   "value": "Overeating"
+ },
+ {
+   "value": "Vision loss"
+ },
+ {
+   "value": "Reflux "
+ },
+ {
+   "value": "Sinus"
+ },
+ {
+   "value": "feel like i'm starving"
+ },
+ {
+   "value": "Joint paint"
+ },
+ {
+   "value": "sensory sensitivity"
+ },
+ {
+   "value": "left hip and pain down leg"
+ },
+ {
+   "value": "Physical Tiredness"
+ },
+ {
+   "value": "aching legs"
+ },
+ {
+   "value": "Dry nose"
+ },
+ {
+   "value": "Pain level"
+ },
+ {
+   "value": "Morning Erection"
+ },
+ {
+   "value": "Ear fullness"
+ },
+ {
+   "value": "Crash Day"
+ },
+ {
+   "value": "GI pain"
+ },
+ {
+   "value": "esophageal spasm"
+ },
+ {
+   "value": "Flaky scalp"
+ },
+ {
+   "value": "right side pain"
+ },
+ {
+   "value": "digestive issues"
+ },
+ {
+   "value": "Arms and hands pain"
+ },
+ {
+   "value": "sun sensitivity"
+ },
+ {
+   "value": "bad sleep"
+ },
+ {
+   "value": "Bleed"
+ },
+ {
+   "value": "heart burn"
+ },
+ {
+   "value": "Heat sensitivity"
+ },
+ {
+   "value": "adrenal surges"
+ },
+ {
+   "value": "How Do You Feel Today?"
+ },
+ {
+   "value": "Procrastination"
+ },
+ {
+   "value": "Watery Eyes"
+ },
+ {
+   "value": "Pounding heart"
+ },
+ {
+   "value": "Altered Sleep Schedule"
+ },
+ {
+   "value": "left hand tingling"
+ },
+ {
+   "value": "Face twitching"
+ },
+ {
+   "value": "Elevated temperature"
+ },
+ {
+   "value": "feeling unwell"
+ },
+ {
+   "value": "Calm"
+ },
+ {
+   "value": "Dry lips"
+ },
+ {
+   "value": "GI Distress"
+ },
+ {
+   "value": "Uncomfortable"
+ },
+ {
+   "value": "activity"
+ },
+ {
+   "value": "Floaters"
+ },
+ {
+   "value": "neuropathic pain"
+ },
+ {
+   "value": "Meltdowns"
+ },
+ {
+   "value": "Acute pain EDS related (sublux, trapped nerve etc.)"
+ },
+ {
+   "value": "Disorientation"
+ },
+ {
+   "value": "Blurred/double vision"
+ },
+ {
+   "value": "scalp pain"
+ },
+ {
+   "value": "Malar rash"
+ },
+ {
+   "value": "Gender dysphoria"
+ },
+ {
+   "value": "itching face"
+ },
+ {
+   "value": "Photophobia"
+ },
+ {
+   "value": "Weak muscles (Arms and shoulders)"
+ },
+ {
+   "value": "lower back aches"
+ },
+ {
+   "value": "dandruff"
+ },
+ {
+   "value": "mottling"
+ },
+ {
+   "value": "Stiff Fingers"
+ },
+ {
+   "value": "left ear pain"
+ },
+ {
+   "value": "Sleep issues"
+ },
+ {
+   "value": "Dry eyes, mouth, lips"
+ },
+ {
+   "value": "pins and needles in feet"
+ },
+ {
+   "value": "Sugar craving"
+ },
+ {
+   "value": "Watery eye"
+ },
+ {
+   "value": "Tender Lymph nodes"
+ },
+ {
+   "value": "itchy hands"
+ },
+ {
+   "value": "Finger stiffness"
+ },
+ {
+   "value": "stressed"
+ },
+ {
+   "value": "sacroiliac pain"
+ },
+ {
+   "value": "Weak muscles (Torso and face)"
+ },
+ {
+   "value": "anxiety attacks"
+ },
+ {
+   "value": "Bloody nose"
+ },
+ {
+   "value": "Bowel problems"
+ },
+ {
+   "value": "teeth pain"
+ },
+ {
+   "value": "bladder incontinence"
+ },
+ {
+   "value": "puffy face"
+ },
+ {
+   "value": "Temperature dysregulation"
+ },
+ {
+   "value": "Arm weakness"
+ },
+ {
+   "value": "pain in hip "
+ },
+ {
+   "value": "Burning pain"
+ },
+ {
+   "value": "grogginess"
+ },
+ {
+   "value": "sore joints"
+ },
+ {
+   "value": "numbness legs"
+ },
+ {
+   "value": "Heart Pain"
+ },
+ {
+   "value": "Red face"
+ },
+ {
+   "value": "backpain"
+ },
+ {
+   "value": "backache"
+ },
+ {
+   "value": "burning hands"
+ },
+ {
+   "value": "Dehydrated"
+ },
+ {
+   "value": "Scalp sores"
+ },
+ {
+   "value": "cold symptoms"
+ },
+ {
+   "value": "Tummy ache"
+ },
+ {
+   "value": "rib cage pain"
+ },
+ {
+   "value": "Back spasms"
+ },
+ {
+   "value": "Numbness feet"
+ },
+ {
+   "value": "leg and feet pain"
+ },
+ {
+   "value": "Torso and face pain"
+ },
+ {
+   "value": "Lower leg pain"
+ },
+ {
+   "value": "Joint Inflammation"
+ },
+ {
+   "value": "Numbness and burning in feet"
+ },
+ {
+   "value": "Nervousness"
+ },
+ {
+   "value": "Numbness and burning in fingers"
+ },
+ {
+   "value": "Arms and hands twitching"
+ },
+ {
+   "value": "Weak muscles (Legs)"
+ },
+ {
+   "value": "Left side pain"
+ },
+ {
+   "value": "Sharp Pain"
+ },
+ {
+   "value": "Leg and feet twitching"
+ },
+ {
+   "value": "abdominal swelling"
+ },
+ {
+   "value": "Sensitivity to touch"
+ },
+ {
+   "value": "seeing stars"
+ },
+ {
+   "value": "Ribcage pain"
+ },
+ {
+   "value": "Red spots on the skin"
+ },
+ {
+   "value": "Arms Numb"
+ },
+ {
+   "value": "Neck spasms"
+ },
+ {
+   "value": "Numbness or tingling sensation in the tongue"
+ },
+ {
+   "value": "Torso Twitching"
+ },
+ {
+   "value": "Right thumb pain"
+ },
+ {
+   "value": "Limping"
+ },
+ {
+   "value": "stimming"
+ },
+ {
+   "value": "POTS"
+ },
+ {
+   "value": "Moody"
+ },
+ {
+   "value": "unrestful sleep"
+ },
+ {
+   "value": "Teary"
+ },
+ {
+   "value": "Thoracic pain"
+ },
+ {
+   "value": "pain in spine or next to it "
+ },
+ {
+   "value": "Leg numbness"
+ },
+ {
+   "value": "numb legs and arms and hands and back "
+ },
+ {
+   "value": "needing to pee but blood comes out instead as i cant pee "
+ },
+ {
+   "value": "alot of gunk on chest "
+ },
+ {
+   "value": "cant move jaw with spasms "
+ },
+ {
+   "value": "spasmps "
+ },
+ {
+   "value": "pain in shoulders "
+ },
+ {
+   "value": "Hayfever"
+ },
+ {
+   "value": "Aching joints"
+ },
+ {
+   "value": "Muscle pain and stiffness"
+ },
+ {
+   "value": "poor memory"
+ },
+ {
+   "value": "achey/stiff hips"
+ },
+ {
+   "value": "Unmotivated"
+ },
+ {
+   "value": "Whole body pain"
+ },
+ {
+   "value": "Coccydynia"
+ },
+ {
+   "value": "Withdrawn"
+ },
+ {
+   "value": "Lightheaded"
+ },
+ {
+   "value": "Hip stiffness"
+ },
+ {
+   "value": "sensitivity to light / sound"
+ },
+ {
+   "value": "flank pain"
+ },
+ {
+   "value": "Dislocation"
+ },
+ {
+   "value": "trouble breathing"
+ },
+ {
+   "value": "Arthritis"
+ },
+ {
+   "value": "Gut pain"
+ },
+ {
+   "value": "Anal itching"
+ },
+ {
+   "value": "right eye pain"
+ },
+ {
+   "value": "Breathless"
+ },
+ {
+   "value": "Neck related symptoms (jaw pain, twitching, blood flow etc.)"
+ },
+ {
+   "value": "Catastrophizing"
+ },
+ {
+   "value": "eye irritation"
+ },
+ {
+   "value": "Excessive yawning"
+ },
+ {
+   "value": "excessive thirst"
+ },
+ {
+   "value": "electric shocks"
+ },
+ {
+   "value": "Achy"
+ },
+ {
+   "value": "Muscle twitches"
+ },
+ {
+   "value": "easy to anger"
+ },
+ {
+   "value": "abdominal discomfort"
+ },
+ {
+   "value": "IBS pain"
+ },
+ {
+   "value": "sternum pain"
+ },
+ {
+   "value": "Lower back/SI pain"
+ },
+ {
+   "value": "knuckle pain"
+ },
+ {
+   "value": "Trouble regulating body temp"
+ },
+ {
+   "value": "blurry eyes"
+ },
+ {
+   "value": "difficulty speaking"
+ },
+ {
+   "value": "Faintness"
+ },
+ {
+   "value": "overexertion"
+ },
+ {
+   "value": "Clogged ears"
+ },
+ {
+   "value": "forgeting where i am or doing losing time "
+ },
+ {
+   "value": "asthma attacks"
+ },
+ {
+   "value": "Joint pain fingers"
+ },
+ {
+   "value": "numbness in feet"
+ },
+ {
+   "value": "hand and wrist pain"
+ },
+ {
+   "value": "dry heaving"
+ },
+ {
+   "value": "Feet Numb"
+ },
+ {
+   "value": "Short Term Memory"
+ },
+ {
+   "value": "water retention"
+ },
+ {
+   "value": "Heavy periods"
+ },
+ {
+   "value": "Insomnia (middle of the night)"
+ },
+ {
+   "value": "Pleurisy"
+ },
+ {
+   "value": "numb hands"
+ },
+ {
+   "value": "sore back"
+ },
+ {
+   "value": "Post Exertional Malaise"
+ },
+ {
+   "value": "Shin pain"
+ },
+ {
+   "value": "Stomache ache"
+ },
+ {
+   "value": "angry"
+ },
+ {
+   "value": "Impaired Concentration"
+ },
+ {
+   "value": "Congested"
+ },
+ {
+   "value": "Tunnel vision"
+ },
+ {
+   "value": "crash"
+ },
+ {
+   "value": "Healthy sleep"
+ },
+ {
+   "value": "Shakes"
+ },
+ {
+   "value": "got shuff pouring out underneath "
+ },
+ {
+   "value": "Lump in throat"
+ },
+ {
+   "value": "Periods"
+ },
+ {
+   "value": "GI issues"
+ },
+ {
+   "value": "Temperature"
+ },
+ {
+   "value": "numbness hands"
+ },
+ {
+   "value": "Ovary Pain"
+ },
+ {
+   "value": "heart racing"
+ },
+ {
+   "value": "bad pain in right leg under knee "
+ },
+ {
+   "value": "Eating problems"
+ },
+ {
+   "value": "Skin rash"
+ },
+ {
+   "value": "Legs numb"
+ },
+ {
+   "value": "Bleeding gums"
+ },
+ {
+   "value": "Hyperventilation"
+ },
+ {
+   "value": "Anemia"
+ },
+ {
+   "value": "Puffy eyes"
+ },
+ {
+   "value": "Separation Anxiety"
+ },
+ {
+   "value": "Disassociation"
+ },
+ {
+   "value": "tooth pain"
+ },
+ {
+   "value": "fatique"
+ },
+ {
+   "value": "brain zaps"
+ },
+ {
+   "value": "skin discoloration"
+ },
+ {
+   "value": "tight shoulders"
+ },
+ {
+   "value": "Achy feet"
+ },
+ {
+   "value": "Stiff Joints"
+ },
+ {
+   "value": "tendonitis"
+ },
+ {
+   "value": "Cluster Headache"
+ },
+ {
+   "value": "stomach pains"
+ },
+ {
+   "value": "right leg weakness"
+ },
+ {
+   "value": "Dystonia"
+ },
+ {
+   "value": "forearm pain"
+ },
+ {
+   "value": "Neck "
+ },
+ {
+   "value": "Skin pain/tenderness"
+ },
+ {
+   "value": "stomachache"
+ },
+ {
+   "value": "arythymia"
+ },
+ {
+   "value": "Bad breath"
+ },
+ {
+   "value": "right neck pain"
+ },
+ {
+   "value": "chest paining "
+ },
+ {
+   "value": "heavy eyes"
+ },
+ {
+   "value": "UTI"
+ },
+ {
+   "value": "Head ache"
+ },
+ {
+   "value": "innapropriate tachycardia"
+ },
+ {
+   "value": "Blushing"
+ },
+ {
+   "value": "shivering"
+ },
+ {
+   "value": "dizziness/brain fog "
+ },
+ {
+   "value": "Postural hypotension"
+ },
+ {
+   "value": "wrist hurting "
+ },
+ {
+   "value": "constipated"
+ },
+ {
+   "value": "got infection again "
+ },
+ {
+   "value": "Post-nasal drip"
+ },
+ {
+   "value": "Urinary Pain"
+ },
+ {
+   "value": "pelvic pain (aching)"
+ },
+ {
+   "value": "Left arm numbness"
+ },
+ {
+   "value": "Ankle Swelling"
+ },
+ {
+   "value": "bronchospasm"
+ },
+ {
+   "value": "left thumb pain"
+ },
+ {
+   "value": "Anaphylaxis"
+ },
+ {
+   "value": "Blacking out"
+ },
+ {
+   "value": "Asthma attack"
+ },
+ {
+   "value": "Dysphoria"
+ },
+ {
+   "value": "hypervigilance"
+ },
+ {
+   "value": "joint popping"
+ },
+ {
+   "value": "Weight"
+ },
+ {
+   "value": "fear"
+ },
+ {
+   "value": "being sick "
+ },
+ {
+   "value": "head fog"
+ },
+ {
+   "value": "kidney hurting "
+ },
+ {
+   "value": "sore mouth"
+ },
+ {
+   "value": "Morning nausea"
+ },
+ {
+   "value": "Glute pain"
+ },
+ {
+   "value": "urticaria"
+ },
+ {
+   "value": "bad pain in legs "
+ },
+ {
+   "value": "psychosis"
+ },
+ {
+   "value": "Incontinence"
+ },
+ {
+   "value": "Dysphagia"
+ },
+ {
+   "value": "heavy lungs"
+ },
+ {
+   "value": "depersonalization"
+ },
+ {
+   "value": "Sore hands"
+ },
+ {
+   "value": "muscle pain neck"
+ },
+ {
+   "value": "Facial Acne"
+ },
+ {
+   "value": "short of breath"
+ },
+ {
+   "value": "loss of vision upon standing"
+ },
+ {
+   "value": "limbs???"
+ },
+ {
+   "value": "chronic headache"
+ },
+ {
+   "value": "Knee stiffness"
+ },
+ {
+   "value": "Joint Pain Hands"
+ },
+ {
+   "value": "hand numbness"
+ },
+ {
+   "value": "pain in lower back "
+ },
+ {
+   "value": "Angioedema"
+ },
+ {
+   "value": "head rush"
+ },
+ {
+   "value": "fatigue in legs"
+ },
+ {
+   "value": "right leg numbness"
+ },
+ {
+   "value": "aggression"
+ },
+ {
+   "value": "Vaginal dryness"
+ },
+ {
+   "value": "Pain after eating"
+ },
+ {
+   "value": "Random isolated pain"
+ },
+ {
+   "value": "Itching skin"
+ },
+ {
+   "value": "broken sleep"
+ },
+ {
+   "value": "Left eye twitch"
+ },
+ {
+   "value": "left foot tingling"
+ },
+ {
+   "value": "ear/head throbbing "
+ },
+ {
+   "value": "mind fog "
+ },
+ {
+   "value": "Dizziness/vertigo"
+ },
+ {
+   "value": "Yeast Infection"
+ },
+ {
+   "value": "Shallow breathing"
+ },
+ {
+   "value": "tactile sensitivity"
+ },
+ {
+   "value": "canker sores"
+ },
+ {
+   "value": "Hand joint pain"
+ },
+ {
+   "value": "Sharp abdominal pain"
+ },
+ {
+   "value": "gastroparesis"
+ },
+ {
+   "value": "Difficulty Communicating"
+ },
+ {
+   "value": "Boils"
+ },
+ {
+   "value": "cervical pain"
+ },
+ {
+   "value": "Feeling worthless"
+ },
+ {
+   "value": "Heavy Fatigue"
+ },
+ {
+   "value": "fuss"
+ },
+ {
+   "value": "Numbness in arms"
+ },
+ {
+   "value": "fatigue in arms "
+ },
+ {
+   "value": "Dilated pupils"
+ },
+ {
+   "value": "stabbing chest pain - lower right"
+ },
+ {
+   "value": "ocd thoughts"
+ },
+ {
+   "value": "Poor mobility"
+ },
+ {
+   "value": "ear cannal swelling"
+ },
+ {
+   "value": "losing feeling in my arms and hands both of them "
+ },
+ {
+   "value": "Left Eye Pain"
+ },
+ {
+   "value": "overall weakness"
+ },
+ {
+   "value": "right eye twitching "
+ },
+ {
+   "value": "sore right shoulder"
+ },
+ {
+   "value": "Paralysis"
+ },
+ {
+   "value": "flare"
+ },
+ {
+   "value": "Sciatic nerve pain"
+ },
+ {
+   "value": "stinky gas"
+ },
+ {
+   "value": "flares"
+ },
+ {
+   "value": "Hot Flash/ Cold flash"
+ },
+ {
+   "value": "Disrupted sleep"
+ },
+ {
+   "value": "Left Hand Numbness"
+ },
+ {
+   "value": "sore left glute"
+ },
+ {
+   "value": "facial redness"
+ },
+ {
+   "value": "sensitive neck glands"
+ },
+ {
+   "value": "numbness and tingling"
+ },
+ {
+   "value": "urgency"
+ },
+ {
+   "value": "extremely cold"
+ },
+ {
+   "value": "Muscle Spasm"
+ },
+ {
+   "value": "forgetting words"
+ },
+ {
+   "value": "Rosacea"
+ },
+ {
+   "value": "sharp pain right side of head "
+ },
+ {
+   "value": "left side abdomen scratchy sensation "
+ },
+ {
+   "value": "head throb"
+ },
+ {
+   "value": "Grinding Teeth"
+ },
+ {
+   "value": "musculoskeletal pain"
+ },
+ {
+   "value": "Cold sensitivity"
+ },
+ {
+   "value": "upper left abdominal pain"
+ },
+ {
+   "value": "sore left calf"
+ },
+ {
+   "value": "bruises"
+ },
+ {
+   "value": "saw jaw"
+ },
+ {
+   "value": "General joint pain"
+ },
+ {
+   "value": "infection"
+ },
+ {
+   "value": "positional vertigo"
+ },
+ {
+   "value": "clumsy"
+ },
+ {
+   "value": "Pain in Extremities"
+ },
+ {
+   "value": "tight right hip"
+ },
+ {
+   "value": "Knee pain right"
+ },
+ {
+   "value": "ringing ears"
+ },
+ {
+   "value": "Ovulation"
+ },
+ {
+   "value": "Self harm urges"
+ },
+ {
+   "value": "Dry throat"
+ },
+ {
+   "value": "passing out"
+ },
+ {
+   "value": "throat pain"
+ },
+ {
+   "value": "Energy: Post-Exertional Malaise (PEM)"
+ },
+ {
+   "value": "Mental Exhaustion"
+ },
+ {
+   "value": "Blood in urine"
+ },
+ {
+   "value": "Increased Clumsiness"
+ },
+ {
+   "value": "hypermobility"
+ },
+ {
+   "value": "stiff muscles"
+ },
+ {
+   "value": "Drainage in throat"
+ },
+ {
+   "value": "Visual snow"
+ },
+ {
+   "value": "tongue sores"
+ },
+ {
+   "value": "Stomache groan"
+ },
+ {
+   "value": "Nauseous"
+ },
+ {
+   "value": "tingling feet"
+ },
+ {
+   "value": "Foot Drop"
+ },
+ {
+   "value": "Difficulty standing"
+ },
+ {
+   "value": "blood sugar"
+ },
+ {
+   "value": "Skin itching"
+ },
+ {
+   "value": "Knee swelling"
+ },
+ {
+   "value": "scar pain"
+ },
+ {
+   "value": "Fatigue crash"
+ },
+ {
+   "value": "Stuttering"
+ },
+ {
+   "value": "pain all over"
+ },
+ {
+   "value": "fast pulse"
+ },
+ {
+   "value": "unbalanced "
+ },
+ {
+   "value": "wheeze"
+ },
+ {
+   "value": "painful hands"
+ },
+ {
+   "value": "mouth/tongue sores"
+ },
+ {
+   "value": "numbness hands/fingers"
+ },
+ {
+   "value": "left neck pain"
+ },
+ {
+   "value": "lower left abdominal pain"
+ },
+ {
+   "value": "Esophageal Pain"
+ },
+ {
+   "value": "Avoidance"
+ },
+ {
+   "value": "aches"
+ },
+ {
+   "value": "pathogical lying"
+ },
+ {
+   "value": "Increased thirst"
+ },
+ {
+   "value": "head feels funny when i go forward "
+ },
+ {
+   "value": "Onychophosis"
+ },
+ {
+   "value": "Tight chest"
+ },
+ {
+   "value": "pain severity"
+ },
+ {
+   "value": "sinusitis"
+ },
+ {
+   "value": "Painful intercourse"
+ },
+ {
+   "value": "Stabbing headache"
+ },
+ {
+   "value": "Skin burning"
+ },
+ {
+   "value": "Vulvar Pain"
+ },
+ {
+   "value": "cold and flu like symptoms"
+ },
+ {
+   "value": "sinus inflammation"
+ },
+ {
+   "value": "seizure"
+ },
+ {
+   "value": "lower right abdominal pain"
+ },
+ {
+   "value": "Auditory hallucinations"
+ },
+ {
+   "value": "warm flush in ears"
+ },
+ {
+   "value": "left shoulder blade pain"
+ },
+ {
+   "value": "pimples"
+ },
+ {
+   "value": "Candida"
+ },
+ {
+   "value": "Tingling face"
+ },
+ {
+   "value": "Impetigo"
+ },
+ {
+   "value": "Increased Heart rate"
+ },
+ {
+   "value": "Painful joints"
+ },
+ {
+   "value": "Diarrhea/ Soft Stool"
+ },
+ {
+   "value": "Altered mental status"
+ },
+ {
+   "value": "nose bleed"
+ },
+ {
+   "value": "Painful sleep"
+ },
+ {
+   "value": "radiating leg pain"
+ },
+ {
+   "value": "pain in rib left side with scolilodis "
+ },
+ {
+   "value": "Bad"
+ },
+ {
+   "value": "skin breakdown"
+ },
+ {
+   "value": "Eye swelling"
+ },
+ {
+   "value": "Stumbling"
+ },
+ {
+   "value": "bladder pressure"
+ },
+ {
+   "value": "oral ulcers"
+ },
+ {
+   "value": "Adrenaline-ish feeling"
+ },
+ {
+   "value": "Headache/Migraine"
+ },
+ {
+   "value": "low body temperature"
+ },
+ {
+   "value": "Thorasic spine pain"
+ },
+ {
+   "value": "Compulsions"
+ },
+ {
+   "value": "Crying spells"
+ },
+ {
+   "value": "low concentration"
+ },
+ {
+   "value": "parvo"
+ },
+ {
+   "value": "left lower leg pain"
+ },
+ {
+   "value": "woozy dizziness vertigo"
+ },
+ {
+   "value": "All over pain"
+ },
+ {
+   "value": "Pain in feet"
+ },
+ {
+   "value": "Unable to Communicate"
+ },
+ {
+   "value": "Tender points"
+ },
+ {
+   "value": "Bad taste in the mouth"
+ },
+ {
+   "value": "Knee pain left"
+ },
+ {
+   "value": "Thirsty"
+ },
+ {
+   "value": "misophonia"
+ },
+ {
+   "value": "joint pain wrists"
+ },
+ {
+   "value": "Hand Rash"
+ },
+ {
+   "value": "Chest pains"
+ },
+ {
+   "value": "GI Upset"
+ },
+ {
+   "value": "Sore shoulders"
+ },
+ {
+   "value": "Balance"
+ },
+ {
+   "value": "pelvic pain (tearing or pulling)"
+ },
+ {
+   "value": "ankle stiffness"
+ },
+ {
+   "value": "generalized aches"
+ },
+ {
+   "value": "Torso neuropathy"
+ },
+ {
+   "value": "Cravings"
+ },
+ {
+   "value": "Excoriation"
+ },
+ {
+   "value": "Disturbed sleep"
+ },
+ {
+   "value": "Itchy throat"
+ },
+ {
+   "value": "paraesthesia in legs"
+ },
+ {
+   "value": "hot flush"
+ },
+ {
+   "value": "Swollen face"
+ },
+ {
+   "value": "bit of the runs only very little "
+ },
+ {
+   "value": "neck pain and stiffness"
+ },
+ {
+   "value": "left leg tingling"
+ },
+ {
+   "value": "right hip subluxtion/dislocation"
+ },
+ {
+   "value": "Nystagmus"
+ },
+ {
+   "value": "trouble walking"
+ },
+ {
+   "value": "Blackouts"
+ },
+ {
+   "value": "negative thoughts"
+ },
+ {
+   "value": "tingling and numbness"
+ },
+ {
+   "value": "Urethra pain"
+ },
+ {
+   "value": "general headache"
+ },
+ {
+   "value": "numbness in hands or arms"
+ },
+ {
+   "value": "High libido"
+ },
+ {
+   "value": "tearfulness"
+ },
+ {
+   "value": "Nail biting"
+ },
+ {
+   "value": "#hrs HR > 95"
+ },
+ {
+   "value": "loose stools"
+ },
+ {
+   "value": "cold hands and feet"
+ },
+ {
+   "value": "physical anxiety"
+ },
+ {
+   "value": "jumpy/easily startled"
+ },
+ {
+   "value": "Tingling fingers"
+ },
+ {
+   "value": "Numb lips"
+ },
+ {
+   "value": "Daytime lie down"
+ },
+ {
+   "value": "Burning muscles"
+ },
+ {
+   "value": "pain generalized"
+ },
+ {
+   "value": "temple pain"
+ },
+ {
+   "value": "Brain fog, concentration and memory concerns"
+ },
+ {
+   "value": "Itchy mouth"
+ },
+ {
+   "value": "Stiffness in joints"
+ },
+ {
+   "value": "vision changes & eye irritation"
+ },
+ {
+   "value": "Facial swelling"
+ },
+ {
+   "value": "Sad"
+ },
+ {
+   "value": "menstrual bleeding"
+ },
+ {
+   "value": "Buzzing"
+ },
+ {
+   "value": "Terror, panic, or paranoia"
+ },
+ {
+   "value": "right hand weakness"
+ },
+ {
+   "value": "Stress Incontinence"
+ },
+ {
+   "value": "Misc joint & limb pain"
+ },
+ {
+   "value": "Pressure Headache"
+ },
+ {
+   "value": "dizziness when standing"
+ },
+ {
+   "value": "sore stomach "
+ },
+ {
+   "value": "writing "
+ },
+ {
+   "value": "muscle pain/cramps"
+ },
+ {
+   "value": "severe pain in left knee "
+ },
+ {
+   "value": "bruxism"
+ },
+ {
+   "value": "Blocked nose"
+ },
+ {
+   "value": "Hours Worked"
+ },
+ {
+   "value": "achy hands"
+ },
+ {
+   "value": "Early Satiety"
+ },
+ {
+   "value": "sore legs"
+ },
+ {
+   "value": "lack of sleep"
+ },
+ {
+   "value": "ovulation pain"
+ },
+ {
+   "value": "Severe pain"
+ },
+ {
+   "value": "Loose bowels"
+ },
+ {
+   "value": "difficulty getting out of bed"
+ },
+ {
+   "value": "Shoulder stiffness"
+ },
+ {
+   "value": "other joint pain"
+ },
+ {
+   "value": "Fever/chills"
+ },
+ {
+   "value": "Iritis"
+ },
+ {
+   "value": "sore neck"
+ },
+ {
+   "value": "Too hot"
+ },
+ {
+   "value": "sore lower left back "
+ },
+ {
+   "value": "Urinary retention"
+ },
+ {
+   "value": "epigastric burning"
+ },
+ {
+   "value": "irritated skin"
+ },
+ {
+   "value": "dizzy / disoriented"
+ },
+ {
+   "value": "Bitter taste"
+ },
+ {
+   "value": "neuralgia"
+ },
+ {
+   "value": "Feeling Full"
+ },
+ {
+   "value": "pain level 6-7"
+ },
+ {
+   "value": "body stiffness "
+ },
+ {
+   "value": "Itchy Nose"
+ },
+ {
+   "value": "Foot cramp"
+ },
+ {
+   "value": "left leg weakness"
+ },
+ {
+   "value": "right arm numbness"
+ },
+ {
+   "value": "Facial twitching"
+ },
+ {
+   "value": "complusion"
+ },
+ {
+   "value": "painful lymph nodes"
+ },
+ {
+   "value": "Queasy"
+ },
+ {
+   "value": "bad headaches really hurt "
+ },
+ {
+   "value": "epigastric itching "
+ },
+ {
+   "value": "sick"
+ },
+ {
+   "value": "Flushing/hives"
+ },
+ {
+   "value": "Activity Level"
+ },
+ {
+   "value": "Sore muscle"
+ },
+ {
+   "value": "Difficulty reading"
+ },
+ {
+   "value": "glitchiness/fog"
+ },
+ {
+   "value": "Social discomfort"
+ },
+ {
+   "value": "Slipping joints"
+ },
+ {
+   "value": "Bloated stomach"
+ },
+ {
+   "value": "Rapid heart rate"
+ },
+ {
+   "value": "Feeling stressed"
+ },
+ {
+   "value": "Left calf pain"
+ },
+ {
+   "value": "Throwing up"
+ },
+ {
+   "value": "blood in sick "
+ },
+ {
+   "value": "Falling asleep"
+ },
+ {
+   "value": "occipital neuralgia"
+ },
+ {
+   "value": "bladder urgency"
+ },
+ {
+   "value": "zoning out"
+ },
+ {
+   "value": "cataplexy"
+ },
+ {
+   "value": "Burning in left foot"
+ },
+ {
+   "value": "imbalance"
+ },
+ {
+   "value": "Joint Instability"
+ },
+ {
+   "value": "spinal pain"
+ },
+ {
+   "value": "left hand weakness"
+ },
+ {
+   "value": "decreased fine motor skills"
+ },
+ {
+   "value": "waking up at night "
+ },
+ {
+   "value": "extra sensitive to pain"
+ },
+ {
+   "value": "Endometriosis pain"
+ },
+ {
+   "value": "Anal pain"
+ },
+ {
+   "value": "internal vibrations"
+ },
+ {
+   "value": "right ovary pain"
+ },
+ {
+   "value": "general malaise"
+ },
+ {
+   "value": "chest ache"
+ },
+ {
+   "value": "stutter"
+ },
+ {
+   "value": "Pale skin"
+ },
+ {
+   "value": "Aching feet"
+ },
+ {
+   "value": "Emotional Instability"
+ },
+ {
+   "value": "Feeling generally unwell"
+ },
+ {
+   "value": "early waking"
+ },
+ {
+   "value": "muscle tenderness"
+ },
+ {
+   "value": "Muscle aches when getting up after prolonged sitting/laying "
+ },
+ {
+   "value": "sore muscles"
+ },
+ {
+   "value": "pain level 8+"
+ },
+ {
+   "value": "bladder issues"
+ },
+ {
+   "value": "heavy head"
+ },
+ {
+   "value": "left ovary pain"
+ },
+ {
+   "value": "sleepy"
+ },
+ {
+   "value": "bad mood"
+ },
+ {
+   "value": "morning headache"
+ },
+ {
+   "value": "fog"
+ },
+ {
+   "value": "Safety behaviours"
+ },
+ {
+   "value": "Hypersensitivity"
+ },
+ {
+   "value": "Breathing difficulty"
+ },
+ {
+   "value": "sensitivity to cold"
+ },
+ {
+   "value": "Aches and pains"
+ },
+ {
+   "value": "Distractability"
+ },
+ {
+   "value": "Vulvodynia"
+ },
+ {
+   "value": "Cognitive problems"
+ },
+ {
+   "value": "Inability to regulate temperature"
+ },
+ {
+   "value": "Face Numbness"
+ },
+ {
+   "value": "overdid it"
+ },
+ {
+   "value": "Nightmare"
+ },
+ {
+   "value": "sleep craving"
+ },
+ {
+   "value": "back of head burning"
+ },
+ {
+   "value": "poop"
+ },
+ {
+   "value": "bulging eyes"
+ },
+ {
+   "value": "sleep drunk"
+ },
+ {
+   "value": "uterus pain"
+ },
+ {
+   "value": "lethargic"
+ },
+ {
+   "value": "Lupus"
+ },
+ {
+   "value": "Twitches/spasms"
+ },
+ {
+   "value": "myoclonic jerking"
+ },
+ {
+   "value": "hyper"
+ },
+ {
+   "value": "eye floaters"
+ },
+ {
+   "value": "Foot Numbness"
+ },
+ {
+   "value": "Acute pain"
+ },
+ {
+   "value": "appetite loss"
+ },
+ {
+   "value": "sensitive skin"
+ },
+ {
+   "value": "Flu like ache "
+ },
+ {
+   "value": "feeling drained"
+ },
+ {
+   "value": "Choking"
+ },
+ {
+   "value": "Forearm Tendon Pain"
+ },
+ {
+   "value": "RLS"
+ },
+ {
+   "value": "Skin redness"
+ },
+ {
+   "value": "throat clearing-unable to clear mucous"
+ },
+ {
+   "value": "Numb Toes"
+ },
+ {
+   "value": "sensitive to noise"
+ },
+ {
+   "value": "charlie horse"
+ },
+ {
+   "value": "back ache"
+ },
+ {
+   "value": "colored mucous"
+ },
+ {
+   "value": "Rheumatoid arthritis"
+ },
+ {
+   "value": "urine ocd"
+ },
+ {
+   "value": "migrane"
+ },
+ {
+   "value": "sensitive gums"
+ },
+ {
+   "value": "Back pains"
+ },
+ {
+   "value": "mouth pain"
+ },
+ {
+   "value": "Nap Count"
+ },
+ {
+   "value": "slow reflexes"
+ },
+ {
+   "value": "Motivation"
+ },
+ {
+   "value": "Side pain"
+ },
+ {
+   "value": "nose bleeding "
+ },
+ {
+   "value": "bulging veins"
+ },
+ {
+   "value": "adrenaline-chestsqueeze"
+ },
+ {
+   "value": "low heart rate"
+ },
+ {
+   "value": "Head Sores"
+ },
+ {
+   "value": "slowness"
+ },
+ {
+   "value": "emotional sensitivity"
+ },
+ {
+   "value": "rib tightness"
+ },
+ {
+   "value": "throat clearing"
+ },
+ {
+   "value": "facial paraesthesia"
+ },
+ {
+   "value": "Overall Leg Pain"
+ },
+ {
+   "value": "craving salt"
+ },
+ {
+   "value": "Missed menstrual period"
+ },
+ {
+   "value": "Chapped lips"
+ },
+ {
+   "value": "Burning legs"
+ },
+ {
+   "value": "gas and bloating"
+ },
+ {
+   "value": "stiff shoulders"
+ },
+ {
+   "value": "Eye redness"
+ },
+ {
+   "value": "SI Thoughts"
+ },
+ {
+   "value": "swallowing difficulty"
+ },
+ {
+   "value": "nocturia"
+ },
+ {
+   "value": "Right ear pain"
+ },
+ {
+   "value": "word finding difficulty"
+ },
+ {
+   "value": "Distracted"
+ },
+ {
+   "value": "shoulder joint pain"
+ },
+ {
+   "value": "Fear of social interaction"
+ },
+ {
+   "value": "Hands Numb"
+ },
+ {
+   "value": "Joint dislocation"
+ },
+ {
+   "value": "urine frequency"
+ },
+ {
+   "value": "feeling down"
+ },
+ {
+   "value": "Limb Weakness"
+ },
+ {
+   "value": "Right Hand Numbness"
+ },
+ {
+   "value": "tired eyes"
+ },
+ {
+   "value": "Too cold"
+ },
+ {
+   "value": "Erythema nodosum"
+ },
+ {
+   "value": "paraesthesia"
+ },
+ {
+   "value": "pain in lung "
+ },
+ {
+   "value": "Hungry"
+ },
+ {
+   "value": "Orthostatic Hypotension"
+ },
+ {
+   "value": "Right heel pain"
+ },
+ {
+   "value": "Emotional disorder"
+ },
+ {
+   "value": "bowel frequency"
+ },
+ {
+   "value": "Inflammatory diet"
+ },
+ {
+   "value": "Too Much Activity/Pushed Myself"
+ },
+ {
+   "value": "Numbness face"
+ },
+ {
+   "value": "forea"
+ },
+ {
+   "value": "Dull pain"
+ },
+ {
+   "value": "Unable to Leave the House/fear"
+ },
+ {
+   "value": "Wrist Stiffness"
+ },
+ {
+   "value": "Can't Get Myself together on Time"
+ },
+ {
+   "value": "pain ( other)"
+ },
+ {
+   "value": "Pain in hands"
+ },
+ {
+   "value": "inflamation"
+ },
+ {
+   "value": "flu-like fatigue/aches"
+ },
+ {
+   "value": "clothes indecision"
+ },
+ {
+   "value": "physical activity"
+ },
+ {
+   "value": "Tenesmus"
+ },
+ {
+   "value": "feeling virus-y "
+ },
+ {
+   "value": "urinary tract infection"
+ },
+ {
+   "value": "Muscle tics"
+ },
+ {
+   "value": "skin irritation"
+ },
+ {
+   "value": "tingling arms"
+ },
+ {
+   "value": "Trigger Points"
+ },
+ {
+   "value": "right leg tingling"
+ },
+ {
+   "value": "Heart pounding"
+ },
+ {
+   "value": "Limbs falling asleep"
+ },
+ {
+   "value": "Distorted time sense"
+ },
+ {
+   "value": "tingling in arms"
+ },
+ {
+   "value": "Uneasy Feeling"
+ },
+ {
+   "value": "Communication Difficulties"
+ },
+ {
+   "value": "cracking neck"
+ },
+ {
+   "value": "tired"
+ },
+ {
+   "value": "Hyopomania"
+ },
+ {
+   "value": "weak muscles"
+ },
+ {
+   "value": "occipital pain "
+ },
+ {
+   "value": "Poor sleep quality"
+ },
+ {
+   "value": "extreme thirst"
+ },
+ {
+   "value": "Lower Back Flare Up"
+ },
+ {
+   "value": "Jaw ache"
+ },
+ {
+   "value": "Arrhythmia"
+ },
+ {
+   "value": "Left Foot Numbness"
+ },
+ {
+   "value": "swollen knees"
+ },
+ {
+   "value": "Oily skin"
+ },
+ {
+   "value": "Stiff Back"
+ },
+ {
+   "value": "liver pain"
+ },
+ {
+   "value": "uncontrollable crying"
+ },
+ {
+   "value": "memory recall"
+ },
+ {
+   "value": "Night Terror"
+ },
+ {
+   "value": "SOB"
+ },
+ {
+   "value": "heavy arms"
+ },
+ {
+   "value": "easily frustrated"
+ },
+ {
+   "value": "Pain during sex"
+ },
+ {
+   "value": "Shutdown"
+ },
+ {
+   "value": "muscles "
+ },
+ {
+   "value": "pins and needles in hands"
+ },
+ {
+   "value": "mouth ulcers and tongue ulcers"
+ },
+ {
+   "value": "Cloudy urine"
+ },
+ {
+   "value": "foot swelling"
+ },
+ {
+   "value": "swollen uvula"
+ },
+ {
+   "value": "gi bleeding"
+ },
+ {
+   "value": "Raynauds hands"
+ },
+ {
+   "value": "bloody sinuses"
+ },
+ {
+   "value": "Neck/shoulder pain"
+ },
+ {
+   "value": "ear popping"
+ },
+ {
+   "value": "vomitting"
+ },
+ {
+   "value": "aching calves"
+ },
+ {
+   "value": "eyes hurt"
+ },
+ {
+   "value": "psychopathy"
+ },
+ {
+   "value": "vision"
+ },
+ {
+   "value": "sound distortion"
+ },
+ {
+   "value": "Napping"
+ },
+ {
+   "value": "Soft Stool"
+ },
+ {
+   "value": "Tight muscles"
+ },
+ {
+   "value": "achy joints"
+ },
+ {
+   "value": "Overwhelm"
+ },
+ {
+   "value": "hair falling out"
+ },
+ {
+   "value": "Sensitive to cold"
+ },
+ {
+   "value": "breathing"
+ },
+ {
+   "value": "knee joint pain"
+ },
+ {
+   "value": "Exercise"
+ },
+ {
+   "value": "Nasal Swelling"
+ },
+ {
+   "value": "Worrying"
+ },
+ {
+   "value": "cold temperature "
+ },
+ {
+   "value": "emotions "
+ },
+ {
+   "value": "Oppositional Defiance"
+ },
+ {
+   "value": "warm temperature "
+ },
+ {
+   "value": "Social Withdrawal"
+ },
+ {
+   "value": "Right Foot Numbness"
+ },
+ {
+   "value": "discharge"
+ },
+ {
+   "value": "Brittle nails"
+ },
+ {
+   "value": "Pain- Ankles/Feet"
+ },
+ {
+   "value": "pain flares"
+ },
+ {
+   "value": "thrush"
+ },
+ {
+   "value": "Drop Attack"
+ },
+ {
+   "value": "speech issues"
+ },
+ {
+   "value": "contrary"
+ },
+ {
+   "value": "sensitive to sound"
+ },
+ {
+   "value": "itchy lips"
+ },
+ {
+   "value": "Tightness"
+ },
+ {
+   "value": "wobbly"
+ },
+ {
+   "value": "numb face"
+ },
+ {
+   "value": "Sinus infection"
+ },
+ {
+   "value": "muscle and joint pain"
+ },
+ {
+   "value": "pain, fatigue, cognition, mood"
+ },
+ {
+   "value": "trapped wind"
+ },
+ {
+   "value": "Breakthrough Bleed"
+ },
+ {
+   "value": "labored breathing"
+ },
+ {
+   "value": "Burning Tongue"
+ },
+ {
+   "value": "Feeling low"
+ },
+ {
+   "value": "isolation"
+ },
+ {
+   "value": "Cognitive impairment"
+ },
+ {
+   "value": "Jumpiness"
+ },
+ {
+   "value": "Disequilibrium"
+ },
+ {
+   "value": "hand spasm"
+ },
+ {
+   "value": "weak arms"
+ },
+ {
+   "value": "swollen/tingling lips"
+ },
+ {
+   "value": "leg muscle pain"
+ },
+ {
+   "value": "leg cramp"
+ },
+ {
+   "value": "trigeminal neuralgia"
+ },
+ {
+   "value": "Sleep attacks"
+ },
+ {
+   "value": "opsoclonus"
+ },
+ {
+   "value": "siatica "
+ },
+ {
+   "value": "nasal ulcers"
+ },
+ {
+   "value": "all over body pain"
+ },
+ {
+   "value": "Right Elbow "
+ },
+ {
+   "value": "Urge incontinence"
+ },
+ {
+   "value": "Purging"
+ },
+ {
+   "value": "Motion Sickness"
+ },
+ {
+   "value": "face tingling"
+ },
+ {
+   "value": "nausea/vomiting"
+ },
+ {
+   "value": "Feeling teary"
+ },
+ {
+   "value": "difficulty focusing"
+ },
+ {
+   "value": "Visual disturbance"
+ },
+ {
+   "value": "Skin Problems"
+ },
+ {
+   "value": "bad skin"
+ },
+ {
+   "value": "bowel mucous"
+ },
+ {
+   "value": "Red eyes"
+ },
+ {
+   "value": "rumination"
+ },
+ {
+   "value": "salt craving"
+ },
+ {
+   "value": "aching arms"
+ },
+ {
+   "value": "Extreme tiredness"
+ },
+ {
+   "value": "heavy body"
+ },
+ {
+   "value": "left leg numbness"
+ },
+ {
+   "value": "hair pulling"
+ },
+ {
+   "value": "lower back stiffness"
+ },
+ {
+   "value": "Absence Seizure"
+ },
+ {
+   "value": "Throbbing headache"
+ },
+ {
+   "value": "fall"
+ },
+ {
+   "value": "left arm weakness"
+ },
+ {
+   "value": "swallow issues"
+ },
+ {
+   "value": "right elbow seizes up"
+ },
+ {
+   "value": "rubbing eyes"
+ },
+ {
+   "value": "Dizzy/lightheaded"
+ },
+ {
+   "value": "face flushing"
+ },
+ {
+   "value": "Bradycardia"
+ },
+ {
+   "value": "Muscle/joint pain"
+ },
+ {
+   "value": "random pain"
+ },
+ {
+   "value": "joint pain hip"
+ },
+ {
+   "value": "arm spasms"
+ },
+ {
+   "value": "abdominal/cervical pain"
+ },
+ {
+   "value": "Right Lower Back Pain"
+ },
+ {
+   "value": "warm hands and feet"
+ },
+ {
+   "value": "lip angioedema"
+ },
+ {
+   "value": "Foggy head"
+ },
+ {
+   "value": "internal tremors"
+ },
+ {
+   "value": "calf soreness"
+ },
+ {
+   "value": "full body weakness"
+ },
+ {
+   "value": "Blisters"
+ },
+ {
+   "value": "gluten"
+ },
+ {
+   "value": "Grey out"
+ },
+ {
+   "value": "knee jerking"
+ },
+ {
+   "value": "Joint laxity"
+ },
+ {
+   "value": "patchy tongue"
+ },
+ {
+   "value": "achilles tendonitis"
+ },
+ {
+   "value": "Inability to Find Words"
+ },
+ {
+   "value": "Stool color & texture changes"
+ },
+ {
+   "value": "Skin sensitive to touch"
+ },
+ {
+   "value": "itchy privates"
+ },
+ {
+   "value": "Blood in Vomit"
+ },
+ {
+   "value": "breast scar tissue"
+ },
+ {
+   "value": "breast itch"
+ },
+ {
+   "value": "breast sensation level"
+ },
+ {
+   "value": "Gyn cramps"
+ },
+ {
+   "value": "fluttering eyelids"
+ },
+ {
+   "value": "cracking mid back"
+ },
+ {
+   "value": "Colon Pain"
+ },
+ {
+   "value": "Lymphedema"
+ },
+ {
+   "value": "legpains"
+ },
+ {
+   "value": "Numbness in toes"
+ },
+ {
+   "value": "leg pain numbness burning"
+ },
+ {
+   "value": "wrist joint pain"
+ },
+ {
+   "value": "sore throat at night"
+ },
+ {
+   "value": "extreme dry mouth ar night"
+ },
+ {
+   "value": "irritation"
+ },
+ {
+   "value": "non-epileptic seizure"
+ },
+ {
+   "value": "Weepy"
+ },
+ {
+   "value": "achy body"
+ },
+ {
+   "value": "swollen eye lid"
+ },
+ {
+   "value": "wart pain"
+ },
+ {
+   "value": "Menorrhagia"
+ },
+ {
+   "value": "throbbing pain"
+ },
+ {
+   "value": "leg tremors"
+ },
+ {
+   "value": "lip tingling"
+ },
+ {
+   "value": "numb feet"
+ },
+ {
+   "value": "left shoulder and neck tight"
+ },
+ {
+   "value": "pain in joints"
+ },
+ {
+   "value": "Cracking toes"
+ },
+ {
+   "value": "trouble regulating body temperature"
+ },
+ {
+   "value": "aching"
+ },
+ {
+   "value": "acneform lesions"
+ },
+ {
+   "value": "digestive discomfort"
+ },
+ {
+   "value": "awoke last night from sleep apnea episode"
+ },
+ {
+   "value": "Weakness in legs"
+ },
+ {
+   "value": "Lip swelling"
+ },
+ {
+   "value": "Seasonal Allergies"
+ },
+ {
+   "value": "White Wine"
+ },
+ {
+   "value": "pseudofolliculitis "
+ },
+ {
+   "value": "Peeing excessively"
+ },
+ {
+   "value": "Red Wine"
+ },
+ {
+   "value": "drinking"
+ },
+ {
+   "value": "good sleep"
+ },
+ {
+   "value": "productivity"
+ },
+ {
+   "value": "Beer"
+ },
+ {
+   "value": "Toe joint pain"
+ },
+ {
+   "value": "mondor's syndrome"
+ },
+ {
+   "value": "fuzzy vision"
+ },
+ {
+   "value": "Cold nose"
+ },
+ {
+   "value": "achy joints and muscles"
+ },
+ {
+   "value": "thumb pain"
+ },
+ {
+   "value": "menstrual bleeding (normal unless 4)"
+ },
+ {
+   "value": "Bubbly"
+ },
+ {
+   "value": "Guts"
+ },
+ {
+   "value": "Perineal burning"
+ },
+ {
+   "value": "joint pain ankles"
+ },
+ {
+   "value": "electrical shorts in head"
+ },
+ {
+   "value": "Sensitivity"
+ },
+ {
+   "value": "lots of throat mucous"
+ },
+ {
+   "value": "swollen stomach"
+ },
+ {
+   "value": "head tingling"
+ },
+ {
+   "value": "slow"
+ },
+ {
+   "value": "INR"
+ },
+ {
+   "value": "Pain in hips"
+ },
+ {
+   "value": "Painful BM"
+ },
+ {
+   "value": "Right thigh tightness"
+ },
+ {
+   "value": "left ear feels like fluid running"
+ },
+ {
+   "value": "Right ankle calf tightness"
+ },
+ {
+   "value": "Coordination/Balance issues"
+ },
+ {
+   "value": "pelvic pain (burning)"
+ },
+ {
+   "value": "Left big toe numb"
+ },
+ {
+   "value": "Vulva pain"
+ },
+ {
+   "value": "Right Lower Abdominal Pain"
+ },
+ {
+   "value": "no sleep"
+ },
+ {
+   "value": "Right leg shin heat"
+ },
+ {
+   "value": "Right toe numb"
+ },
+ {
+   "value": "Urine hesitation"
+ },
+ {
+   "value": "Right forearm to middle finger ache"
+ },
+ {
+   "value": "Fibro Pain Shoulders Arms"
+ },
+ {
+   "value": "Left little finger tingle"
+ },
+ {
+   "value": "Left upper back tingle"
+ },
+ {
+   "value": "canker sore in cheek"
+ },
+ {
+   "value": "pelvic floor pain"
+ },
+ {
+   "value": "Hypersexuality"
+ },
+ {
+   "value": "Bubble in throat"
+ },
+ {
+   "value": "left knee weakness"
+ },
+ {
+   "value": "Difficulty hearing"
+ },
+ {
+   "value": "Fibro Pain Legs"
+ },
+ {
+   "value": "random bruises"
+ },
+ {
+   "value": "Emotional irritability "
+ },
+ {
+   "value": "Touch sensitivity"
+ },
+ {
+   "value": "Malaise (inc sore throat)"
+ },
+ {
+   "value": "Sugar cravings"
+ },
+ {
+   "value": "Abdominal Distension"
+ },
+ {
+   "value": "Loss of taste sensation"
+ },
+ {
+   "value": "aggitated "
+ },
+ {
+   "value": "Feet cramps"
+ },
+ {
+   "value": "emotional numbness"
+ },
+ {
+   "value": "headache movement"
+ },
+ {
+   "value": "nerve pain in arm"
+ },
+ {
+   "value": "kissing hand tic"
+ },
+ {
+   "value": "sharp head pain"
+ },
+ {
+   "value": "Intestinal cramps"
+ },
+ {
+   "value": "heavy bleeding"
+ },
+ {
+   "value": "blurry right eye"
+ },
+ {
+   "value": "chronic nausea"
+ },
+ {
+   "value": "floating sensation"
+ },
+ {
+   "value": "awakened with facial itching and nose itching"
+ },
+ {
+   "value": "Pain when urinating "
+ },
+ {
+   "value": "scalp tingling"
+ },
+ {
+   "value": "Motor Tics"
+ },
+ {
+   "value": "Numbness in Fingers"
+ },
+ {
+   "value": "knee instability"
+ },
+ {
+   "value": "tinnitus (right ear)"
+ },
+ {
+   "value": "Sleep disturbances"
+ },
+ {
+   "value": "Sensitivity to light"
+ },
+ {
+   "value": "weak hands"
+ },
+ {
+   "value": "STARTLE"
+ },
+ {
+   "value": "Body Twitching"
+ },
+ {
+   "value": "Productive cough"
+ },
+ {
+   "value": "Flatulance"
+ },
+ {
+   "value": "left hip subluxtion/dislocation"
+ },
+ {
+   "value": "sore body"
+ },
+ {
+   "value": "Elevated heart rate"
+ },
+ {
+   "value": "sore skin"
+ },
+ {
+   "value": "numb legs"
+ },
+ {
+   "value": "fragmented sleep"
+ },
+ {
+   "value": "High blood sugar"
+ },
+ {
+   "value": "Hand/Wrist Pain"
+ },
+ {
+   "value": "Urine odor"
+ },
+ {
+   "value": "jitters"
+ },
+ {
+   "value": "severe pain in neck & jaw "
+ },
+ {
+   "value": "Dreams"
+ },
+ {
+   "value": "woke up with sore tongue as if i had bitten kt"
+ },
+ {
+   "value": "Scapula pain"
+ },
+ {
+   "value": "Stomach Pain/Cramps"
+ },
+ {
+   "value": "severe itchy feet"
+ },
+ {
+   "value": "bounding pulse"
+ },
+ {
+   "value": "Neglecting oneself"
+ },
+ {
+   "value": "upper arm pain"
+ },
+ {
+   "value": "pain and nerve symptoms"
+ },
+ {
+   "value": "facial droop"
+ },
+ {
+   "value": "hip joint pain"
+ },
+ {
+   "value": "runny eyes"
+ },
+ {
+   "value": "Osteoarthritis"
+ },
+ {
+   "value": "dizzy and nausea"
+ },
+ {
+   "value": "Carpal Tunnel Syndrome Pain"
+ },
+ {
+   "value": "all over muscle pain"
+ },
+ {
+   "value": "Feeling feverish"
+ },
+ {
+   "value": "Nail pitting"
+ },
+ {
+   "value": "Morning pain"
+ },
+ {
+   "value": "migraine with aura"
+ },
+ {
+   "value": "shoulder subluxation"
+ },
+ {
+   "value": "left parotid gland "
+ },
+ {
+   "value": "joint pain, chest pain, fatigue, "
+ },
+ {
+   "value": "burning"
+ },
+ {
+   "value": "ocular migraine"
+ },
+ {
+   "value": "pressure in teeth, ears"
+ },
+ {
+   "value": "Bad Dreams"
+ },
+ {
+   "value": "limb numbness"
+ },
+ {
+   "value": "neckache"
+ },
+ {
+   "value": "pvcs"
+ },
+ {
+   "value": "feeling frozen"
+ },
+ {
+   "value": "chest rash"
+ },
+ {
+   "value": "Word Finding"
+ },
+ {
+   "value": "vocal tic"
+ },
+ {
+   "value": "sluggishness"
+ },
+ {
+   "value": "right arm heavy"
+ },
+ {
+   "value": "ADHD"
+ },
+ {
+   "value": "joint pain feet"
+ },
+ {
+   "value": "sore glutes"
+ },
+ {
+   "value": "joint pain (general)"
+ },
+ {
+   "value": "headache (max)"
+ },
+ {
+   "value": "Evening Fatigue"
+ },
+ {
+   "value": "joint pain (SI joint)"
+ },
+ {
+   "value": "Unable to support head"
+ },
+ {
+   "value": "Scent Sensitivity"
+ },
+ {
+   "value": "dizziness when sitting"
+ },
+ {
+   "value": "hips"
+ },
+ {
+   "value": "Pain in legs"
+ },
+ {
+   "value": "Stinging"
+ },
+ {
+   "value": "neck ache"
+ },
+ {
+   "value": "POTS tachycardia"
+ },
+ {
+   "value": "Hand arthritis"
+ },
+ {
+   "value": "leg tingling"
+ },
+ {
+   "value": "stiff jaw"
+ },
+ {
+   "value": "e - silence"
+ },
+ {
+   "value": "Restricting"
+ },
+ {
+   "value": "Discomfort"
+ },
+ {
+   "value": "mastoid bone pain"
+ },
+ {
+   "value": "Excessive gas"
+ },
+ {
+   "value": "exhausted"
+ },
+ {
+   "value": "Feeling overwhelmed"
+ },
+ {
+   "value": "DOMS"
+ },
+ {
+   "value": "trembling hands"
+ },
+ {
+   "value": "night congestion"
+ },
+ {
+   "value": "knee joint ache "
+ },
+ {
+   "value": "Easily distracted"
+ },
+ {
+   "value": "nasuea"
+ },
+ {
+   "value": "full body dystonia"
+ },
+ {
+   "value": "clothes hurt"
+ },
+ {
+   "value": "vulvar irratation"
+ },
+ {
+   "value": "navel pulling"
+ },
+ {
+   "value": "spacial awareness & proprioception issues"
+ },
+ {
+   "value": "proprioception issues"
+ },
+ {
+   "value": "heightened senses"
+ },
+ {
+   "value": "ab cramps"
+ },
+ {
+   "value": "sharp, shooting pains"
+ },
+ {
+   "value": "Agitation/Irritability"
+ },
+ {
+   "value": "mcas flares"
+ },
+ {
+   "value": "eyeteeth"
+ },
+ {
+   "value": "joint pain (hands)"
+ },
+ {
+   "value": "low ab pain"
+ },
+ {
+   "value": "dystonia flares"
+ },
+ {
+   "value": "swollowing issues"
+ },
+ {
+   "value": "able to be upright"
+ },
+ {
+   "value": "balance/walking"
+ },
+ {
+   "value": "cognitive fatigue"
+ },
+ {
+   "value": "Agoraphobia"
+ },
+ {
+   "value": "Delusions"
+ },
+ {
+   "value": "Stomach ulcer pain"
+ },
+ {
+   "value": "Panic moment"
+ },
+ {
+   "value": "Arrythmia"
+ },
+ {
+   "value": "Ovarian cyst pain"
+ },
+ {
+   "value": "slowed speech"
+ },
+ {
+   "value": "prickley skin"
+ },
+ {
+   "value": "over heating"
+ },
+ {
+   "value": "collarbone pain"
+ },
+ {
+   "value": "Tender breasts"
+ },
+ {
+   "value": "Lower left back pain"
+ },
+ {
+   "value": "serositis"
+ },
+ {
+   "value": "Sacral Pain"
+ },
+ {
+   "value": "myoclonus"
+ },
+ {
+   "value": "Focus"
+ },
+ {
+   "value": "bloating or gas"
+ },
+ {
+   "value": "right knee click/pain"
+ },
+ {
+   "value": "belly pain left side"
+ },
+ {
+   "value": "Interrupted Sleep"
+ },
+ {
+   "value": "chronic headaches"
+ },
+ {
+   "value": "Sleep disturbance (esp non refreshing)"
+ },
+ {
+   "value": "false hunger"
+ },
+ {
+   "value": "Vaginal odor"
+ },
+ {
+   "value": "ms hug"
+ },
+ {
+   "value": "gagging"
+ },
+ {
+   "value": "forgetful with words "
+ },
+ {
+   "value": "Foot joint pain"
+ },
+ {
+   "value": "Dazed"
+ },
+ {
+   "value": "Eye discharge"
+ },
+ {
+   "value": "Facial Tic"
+ },
+ {
+   "value": "FibroFog"
+ },
+ {
+   "value": "stomach"
+ },
+ {
+   "value": "diaper rash"
+ },
+ {
+   "value": "talking hyperactivity random things incessant"
+ },
+ {
+   "value": "Sharp Left Chest Pain"
+ },
+ {
+   "value": "Chest congestion"
+ },
+ {
+   "value": "left hip pain/weakness"
+ },
+ {
+   "value": "joint pain elbows"
+ },
+ {
+   "value": "Pain at night"
+ },
+ {
+   "value": "hand cramps"
+ },
+ {
+   "value": "Dry Hands"
+ },
+ {
+   "value": "Outbreak"
+ },
+ {
+   "value": "Jaw popping"
+ },
+ {
+   "value": "Fear of Abandonment"
+ },
+ {
+   "value": "tendon pain"
+ },
+ {
+   "value": "Irritating dry cough at night"
+ },
+ {
+   "value": "under weather"
+ },
+ {
+   "value": "shooting pain in toes "
+ },
+ {
+   "value": "sciatic left"
+ },
+ {
+   "value": "Irregular heartbeat"
+ },
+ {
+   "value": "All over itchiness"
+ },
+ {
+   "value": "Dark urine"
+ },
+ {
+   "value": "bedridden"
+ },
+ {
+   "value": "Painful gums"
+ },
+ {
+   "value": "Pain on waking up"
+ },
+ {
+   "value": "Hypothyroidism"
+ },
+ {
+   "value": "anxiety w/heart palpitations"
+ },
+ {
+   "value": "Hand/Finger Pain"
+ },
+ {
+   "value": "severe weakness"
+ },
+ {
+   "value": "Joint and Muscle Pain"
+ },
+ {
+   "value": "Happy"
+ },
+ {
+   "value": "digestive pain"
+ },
+ {
+   "value": "Right Thigh Pain"
+ },
+ {
+   "value": "Spaced out"
+ },
+ {
+   "value": "Heat/Cold Intolerance"
+ },
+ {
+   "value": "tender scalp"
+ },
+ {
+   "value": "faint blackout "
+ },
+ {
+   "value": "no sleep or less theen 1 hourr "
+ },
+ {
+   "value": "Locked Fingers"
+ },
+ {
+   "value": "anxiety dream"
+ },
+ {
+   "value": "Muscle tightness (full body)"
+ },
+ {
+   "value": "numbness tingling"
+ },
+ {
+   "value": "Wind"
+ },
+ {
+   "value": "dull headache"
+ },
+ {
+   "value": "Sleep procrastination"
+ },
+ {
+   "value": "General Weakness"
+ },
+ {
+   "value": "sensitive to light"
+ },
+ {
+   "value": "mental health"
+ },
+ {
+   "value": "dry mouth and eyes"
+ },
+ {
+   "value": "neck tightness"
+ },
+ {
+   "value": "neuro symptoms"
+ },
+ {
+   "value": "Leg muscle weakness"
+ },
+ {
+   "value": "Gastritis"
+ },
+ {
+   "value": "AM pain"
+ },
+ {
+   "value": "Involuntary muscle spasms"
+ },
+ {
+   "value": "hard stool"
+ },
+ {
+   "value": "Low Temperature"
+ },
+ {
+   "value": "left groin pain"
+ },
+ {
+   "value": "Brian Fog"
+ },
+ {
+   "value": "hot joints"
+ },
+ {
+   "value": "sleep trouble falling"
+ },
+ {
+   "value": "mucus in throat"
+ },
+ {
+   "value": "diahrea"
+ },
+ {
+   "value": "Mobility"
+ },
+ {
+   "value": "Unwanted Thoughts"
+ },
+ {
+   "value": "nauesous"
+ },
+ {
+   "value": "Difficulty defecating"
+ },
+ {
+   "value": "aching waist and hips "
+ },
+ {
+   "value": "left jaw pain"
+ },
+ {
+   "value": "right finger Pain"
+ },
+ {
+   "value": "memory"
+ },
+ {
+   "value": "Warm Sensation - Left Side of Head"
+ },
+ {
+   "value": "Hot Flash Fever "
+ },
+ {
+   "value": "severe headache"
+ },
+ {
+   "value": "Feeling of Motion When Still"
+ },
+ {
+   "value": "noise sensativity"
+ },
+ {
+   "value": "rigidity"
+ },
+ {
+   "value": "stabbing chest pain"
+ },
+ {
+   "value": "Eyes Dry/Sore"
+ },
+ {
+   "value": "Nighttime acid reflux"
+ },
+ {
+   "value": "lack of coordination"
+ },
+ {
+   "value": "suicidality"
+ },
+ {
+   "value": "Ear Fullness/Pressure/Pain"
+ },
+ {
+   "value": "virus"
+ },
+ {
+   "value": "Urge to self-harm"
+ },
+ {
+   "value": "PM pain"
+ },
+ {
+   "value": "arm numbness"
+ },
+ {
+   "value": "Fatigue - Mental"
+ },
+ {
+   "value": "wide spread pain"
+ },
+ {
+   "value": "sore boobs"
+ },
+ {
+   "value": "slight swollen gland left ar night"
+ },
+ {
+   "value": "Angina"
+ },
+ {
+   "value": "wrist pain with use/movement"
+ },
+ {
+   "value": "Bite feels off"
+ },
+ {
+   "value": "optic neuritis"
+ },
+ {
+   "value": "Selective Mutism"
+ },
+ {
+   "value": "canker sore under tongue"
+ },
+ {
+   "value": "Disruptive or light sleep"
+ },
+ {
+   "value": "body acne"
+ },
+ {
+   "value": "Vertical ridges on the fingernails"
+ },
+ {
+   "value": "Switching"
+ },
+ {
+   "value": "dissociation/derealization"
+ },
+ {
+   "value": "knee joint sublax ‘& hyperextended, weak"
+ },
+ {
+   "value": "Cervical jerk"
+ },
+ {
+   "value": "seeking reassurance"
+ },
+ {
+   "value": "clamy sweating"
+ },
+ {
+   "value": "Poor immune response"
+ },
+ {
+   "value": "headache behind eyes"
+ },
+ {
+   "value": "thoracic outlet syndrome"
+ },
+ {
+   "value": "Waist eczema"
+ },
+ {
+   "value": "ear congestion"
+ },
+ {
+   "value": "Left thigh eczema"
+ },
+ {
+   "value": "Right thigh eczema"
+ },
+ {
+   "value": "Left under knee eczema"
+ },
+ {
+   "value": "Urethral Pain"
+ },
+ {
+   "value": "Left arm eczema "
+ },
+ {
+   "value": "Teeth Clenching"
+ },
+ {
+   "value": "Other pain"
+ },
+ {
+   "value": "Pre-menstrual pain"
+ },
+ {
+   "value": "Extreme Hunger"
+ },
+ {
+   "value": "Ankle issues"
+ },
+ {
+   "value": "Vein Pain"
+ },
+ {
+   "value": "Droopy eye"
+ },
+ {
+   "value": "Affect Dysregulation"
+ },
+ {
+   "value": "extra muscle pain"
+ },
+ {
+   "value": "face spasm"
+ },
+ {
+   "value": "Lethargy/Fatigue"
+ },
+ {
+   "value": "near fainting"
+ },
+ {
+   "value": "pain with bowel movement"
+ },
+ {
+   "value": "Tight Throat"
+ },
+ {
+   "value": "headache in temples"
+ },
+ {
+   "value": "extra dry mouth"
+ },
+ {
+   "value": "high head pressure"
+ },
+ {
+   "value": "elbow pain right"
+ },
+ {
+   "value": "cried"
+ },
+ {
+   "value": "left rib pain"
+ },
+ {
+   "value": "extra fatigue"
+ },
+ {
+   "value": "Legs Buckling"
+ },
+ {
+   "value": "e - travels"
+ },
+ {
+   "value": "Shivers"
+ },
+ {
+   "value": "Unable to leave my room due to depression"
+ },
+ {
+   "value": "Right under knee eczema"
+ },
+ {
+   "value": "Piriformis pain"
+ },
+ {
+   "value": "lower limb joint pain"
+ },
+ {
+   "value": "twitch left cheek"
+ },
+ {
+   "value": "ic trouble"
+ },
+ {
+   "value": "Bunion Pain"
+ },
+ {
+   "value": "Discoloration"
+ },
+ {
+   "value": "Thigh tingling"
+ },
+ {
+   "value": "Chronic Cough"
+ },
+ {
+   "value": "Seborrheic dermatitis"
+ },
+ {
+   "value": "Left breast tingle"
+ },
+ {
+   "value": "burning skin sensation "
+ },
+ {
+   "value": "biting nails"
+ },
+ {
+   "value": "h1 headache"
+ },
+ {
+   "value": "stiff elbows"
+ },
+ {
+   "value": "Ravenous Appetite "
+ },
+ {
+   "value": "Disorganized Speech"
+ },
+ {
+   "value": "tingling in hands"
+ },
+ {
+   "value": "h1 runny nose"
+ },
+ {
+   "value": "h1flushing"
+ },
+ {
+   "value": "h1 abdominal pain"
+ },
+ {
+   "value": "Headache from vomiting"
+ },
+ {
+   "value": "Shoulder tingling"
+ },
+ {
+   "value": "h1 brain fog"
+ },
+ {
+   "value": "Bruised ribs"
+ },
+ {
+   "value": "Farting"
+ },
+ {
+   "value": "facial spasm"
+ },
+ {
+   "value": "upper limb joint pain"
+ },
+ {
+   "value": "Full body ache"
+ },
+ {
+   "value": "Nackenschmerzen"
+ },
+ {
+   "value": "floaters and flashes"
+ },
+ {
+   "value": "pelvic heaviness"
+ },
+ {
+   "value": "Morning Breath"
+ },
+ {
+   "value": "left ear/tmj"
+ },
+ {
+   "value": "Headache or migraine"
+ },
+ {
+   "value": "Making mistakes"
+ },
+ {
+   "value": "sole of feet pain"
+ },
+ {
+   "value": "Stomach spasms"
+ },
+ {
+   "value": "Nerve pain scalp"
+ },
+ {
+   "value": "heart palpation "
+ },
+ {
+   "value": "Dairy"
+ },
+ {
+   "value": "Aching knees"
+ },
+ {
+   "value": "Vocal tics"
+ },
+ {
+   "value": "vision issues"
+ },
+ {
+   "value": "frequently drops items"
+ },
+ {
+   "value": "Lung Inflammation"
+ },
+ {
+   "value": "brain pressure"
+ },
+ {
+   "value": "right flank pain"
+ },
+ {
+   "value": "Parasthesia"
+ },
+ {
+   "value": "Metallic taste in the mouth"
+ },
+ {
+   "value": "right shoulder blade pain"
+ },
+ {
+   "value": "migraine other"
+ },
+ {
+   "value": "biting skin"
+ },
+ {
+   "value": "Stabbing pains"
+ },
+ {
+   "value": "imaginary arguments"
+ },
+ {
+   "value": "Nipple daggers"
+ },
+ {
+   "value": "stomach discomfort"
+ },
+ {
+   "value": "stress level"
+ },
+ {
+   "value": "ear Infection"
+ },
+ {
+   "value": "burning mouth"
+ },
+ {
+   "value": "left toe pain"
+ },
+ {
+   "value": "Aural fullness"
+ },
+ {
+   "value": "Hot feet"
+ },
+ {
+   "value": "Clicky joints"
+ },
+ {
+   "value": "stigmastis"
+ },
+ {
+   "value": "Sciatica Pain"
+ },
+ {
+   "value": "teariness"
+ },
+ {
+   "value": "recall difficulty "
+ },
+ {
+   "value": "shooting pains in knees"
+ },
+ {
+   "value": "insomnia the night before"
+ },
+ {
+   "value": "Morning grogginess"
+ },
+ {
+   "value": "ice pick headache"
+ },
+ {
+   "value": "Talking tiring "
+ },
+ {
+   "value": "Obsessions"
+ },
+ {
+   "value": "thin skin"
+ },
+ {
+   "value": "Splitting"
+ },
+ {
+   "value": "Localized Head Pain "
+ },
+ {
+   "value": "aching ankles "
+ },
+ {
+   "value": "physical discomfort"
+ },
+ {
+   "value": "Dental pain"
+ },
+ {
+   "value": "pain in fingers"
+ },
+ {
+   "value": "uticaria"
+ },
+ {
+   "value": "manic"
+ },
+ {
+   "value": "neuropathy intensity"
+ },
+ {
+   "value": "skin - Dry/tight"
+ },
+ {
+   "value": "tingling tops of thighs"
+ },
+ {
+   "value": "skin - joint rash"
+ },
+ {
+   "value": "numb cheeks"
+ },
+ {
+   "value": "right foot swelling"
+ },
+ {
+   "value": "sniffing tic"
+ },
+ {
+   "value": "shooting pains in feet "
+ },
+ {
+   "value": "right ear pain upright"
+ },
+ {
+   "value": "neuropathy frequency"
+ },
+ {
+   "value": "unable to focus"
+ },
+ {
+   "value": "GI - constipation"
+ },
+ {
+   "value": "GI - diarrhea "
+ },
+ {
+   "value": "Rash - armpits"
+ },
+ {
+   "value": "Acute injury of last week from mammogram"
+ },
+ {
+   "value": "understimulated"
+ },
+ {
+   "value": "breathing trouble"
+ },
+ {
+   "value": "Facial heating/feels feverish (but temp is low)"
+ },
+ {
+   "value": "White tongue"
+ },
+ {
+   "value": "stomach burning"
+ },
+ {
+   "value": "right knee weakness"
+ },
+ {
+   "value": "shooting ankle pain"
+ },
+ {
+   "value": "Drinking to cope"
+ },
+ {
+   "value": "narcolepsy"
+ },
+ {
+   "value": "faceache"
+ },
+ {
+   "value": "cold/flu"
+ },
+ {
+   "value": "Nonverbal"
+ },
+ {
+   "value": "shooting calf pain "
+ },
+ {
+   "value": "elbow joint ache "
+ },
+ {
+   "value": "Desire to eat sugar"
+ },
+ {
+   "value": "night-sweats "
+ },
+ {
+   "value": "Dermatitis"
+ },
+ {
+   "value": "toe cramps"
+ },
+ {
+   "value": "inability to concentrate"
+ },
+ {
+   "value": "prodding back of thighs "
+ },
+ {
+   "value": "Uncoordinated"
+ },
+ {
+   "value": "Itchy Legs"
+ },
+ {
+   "value": "color changes"
+ },
+ {
+   "value": "spasms"
+ },
+ {
+   "value": "skin sores"
+ },
+ {
+   "value": "eyes feel weak"
+ },
+ {
+   "value": "shooting pains in arms "
+ },
+ {
+   "value": "hormone hair"
+ },
+ {
+   "value": "aching neck"
+ },
+ {
+   "value": "gass-ie"
+ },
+ {
+   "value": "upper back pain/shoulders"
+ },
+ {
+   "value": "hair hurts"
+ },
+ {
+   "value": "joint + muscle pain"
+ },
+ {
+   "value": "Throat Irritation"
+ },
+ {
+   "value": "loss of grip"
+ },
+ {
+   "value": "stomache pain"
+ },
+ {
+   "value": "muscle cramping"
+ },
+ {
+   "value": "Neck & Shoulder Pain"
+ },
+ {
+   "value": "twinging feet"
+ },
+ {
+   "value": "aching top of thighs"
+ },
+ {
+   "value": "chronic migraine"
+ },
+ {
+   "value": "cramping - uterus"
+ },
+ {
+   "value": "full body muscle spasms"
+ },
+ {
+   "value": "Painful Muscle Spasms"
+ },
+ {
+   "value": "tendonosis"
+ },
+ {
+   "value": "Sensitivity to sound"
+ },
+ {
+   "value": "Widespread Bone Pain"
+ },
+ {
+   "value": "under eye skin rash"
+ },
+ {
+   "value": "Pain in muscles"
+ },
+ {
+   "value": "tingling/numbness in leg/foot"
+ },
+ {
+   "value": "Bites "
+ },
+ {
+   "value": "Vomiting blood"
+ },
+ {
+   "value": "right ankle swelling "
+ },
+ {
+   "value": "White toes"
+ },
+ {
+   "value": "itchy teeth"
+ },
+ {
+   "value": "Raynauds"
+ },
+ {
+   "value": "twinging arms "
+ },
+ {
+   "value": "Schmerzen HWS"
+ },
+ {
+   "value": "Sore - Left Big Toe Joint"
+ },
+ {
+   "value": "jaw ache "
+ },
+ {
+   "value": "sore coccyx"
+ },
+ {
+   "value": "The taste"
+ },
+ {
+   "value": "chest flutters"
+ },
+ {
+   "value": "creaking - general"
+ },
+ {
+   "value": "Sharp throbbing pain "
+ },
+ {
+   "value": "vibrations"
+ },
+ {
+   "value": "word recall"
+ },
+ {
+   "value": "Abdominal spasm"
+ },
+ {
+   "value": "Right Shoulder Dislocation"
+ },
+ {
+   "value": "Schmerzen LWS"
+ },
+ {
+   "value": "Upper leg pain"
+ },
+ {
+   "value": "restrictive eating"
+ },
+ {
+   "value": "Leg spasms"
+ },
+ {
+   "value": "Insomnia last night"
+ },
+ {
+   "value": "Hand tremor"
+ },
+ {
+   "value": "Chest Wall Pain"
+ },
+ {
+   "value": "mental"
+ },
+ {
+   "value": "Need to lay down"
+ },
+ {
+   "value": "Swollen tongue"
+ },
+ {
+   "value": "weepiness"
+ },
+ {
+   "value": "💩"
+ },
+ {
+   "value": "swimming vision"
+ },
+ {
+   "value": "right calf pain"
+ },
+ {
+   "value": "hurt/sore all over"
+ },
+ {
+   "value": "Speech difficulty"
+ },
+ {
+   "value": "Body image"
+ },
+ {
+   "value": "ache above the knees"
+ },
+ {
+   "value": "Headaches/Migraines"
+ },
+ {
+   "value": "Emptiness"
+ },
+ {
+   "value": "left ankle swelling"
+ },
+ {
+   "value": "thoughts of self harm"
+ },
+ {
+   "value": "Infection/ Cold/ Flu"
+ },
+ {
+   "value": "Right hand weak"
+ },
+ {
+   "value": "Urinary tract pain"
+ },
+ {
+   "value": "right arm tingling"
+ },
+ {
+   "value": "Tonsil stones"
+ },
+ {
+   "value": "left arm tingling"
+ },
+ {
+   "value": "Coccyx pain"
+ },
+ {
+   "value": "Ear/Jaw Pain"
+ },
+ {
+   "value": "Schmerzen Beine"
+ },
+ {
+   "value": "Right arm weak"
+ },
+ {
+   "value": "Spots"
+ },
+ {
+   "value": "Upper Back Pain - muscles"
+ },
+ {
+   "value": "Aching Limbs"
+ },
+ {
+   "value": "difficulty going to sleep"
+ },
+ {
+   "value": "Throat numb"
+ },
+ {
+   "value": "shooting pain in fingers"
+ },
+ {
+   "value": "Sharp stomach pain"
+ },
+ {
+   "value": "Fuzzy head"
+ },
+ {
+   "value": "Fluid in ears"
+ },
+ {
+   "value": "right face numb "
+ },
+ {
+   "value": "right arm numb"
+ },
+ {
+   "value": "Unable to follow a storyline"
+ },
+ {
+   "value": "Painful periods"
+ },
+ {
+   "value": "rectal cramp"
+ },
+ {
+   "value": "Bad taste in mouth"
+ },
+ {
+   "value": "pain between shoulder blades"
+ },
+ {
+   "value": "right ear feels full"
+ },
+ {
+   "value": "face swelling"
+ },
+ {
+   "value": "hands swelling"
+ },
+ {
+   "value": "Tingles"
+ },
+ {
+   "value": "hyperthyroidism"
+ },
+ {
+   "value": "Irritibility"
+ },
+ {
+   "value": "Rib Dislocation"
+ },
+ {
+   "value": "bedtime anxiety"
+ },
+ {
+   "value": "pain in neck"
+ },
+ {
+   "value": "sore butt"
+ },
+ {
+   "value": "impatience"
+ },
+ {
+   "value": "Juckreiz"
+ },
+ {
+   "value": "Warm"
+ },
+ {
+   "value": "unable to empty bladder"
+ },
+ {
+   "value": "exfoliative chelitis"
+ },
+ {
+   "value": "joint pain hips"
+ },
+ {
+   "value": "Hip tightness"
+ },
+ {
+   "value": "Craziness"
+ },
+ {
+   "value": "sensitive mood"
+ },
+ {
+   "value": "afterwork fatigue"
+ },
+ {
+   "value": "Wrist pain right"
+ },
+ {
+   "value": "work fatigue"
+ },
+ {
+   "value": "Labile mood"
+ },
+ {
+   "value": "cold legs"
+ },
+ {
+   "value": "headache behind right eye"
+ },
+ {
+   "value": "crying over minor frustrations"
+ },
+ {
+   "value": "eczema on toe"
+ },
+ {
+   "value": "right hand/wrist pain"
+ },
+ {
+   "value": "Schmerzen Brustkorb"
+ },
+ {
+   "value": "left hand/wrist pain"
+ },
+ {
+   "value": "edema feet"
+ },
+ {
+   "value": "right eye twitch"
+ },
+ {
+   "value": "Anxiety upon waking"
+ },
+ {
+   "value": "edema thighs"
+ },
+ {
+   "value": "Cough/ cold/ flu"
+ },
+ {
+   "value": "sad mood"
+ },
+ {
+   "value": "low self esteem"
+ },
+ {
+   "value": "Left hand joint pain"
+ },
+ {
+   "value": "Schmerzen BWS"
+ },
+ {
+   "value": "keyed up/anxious"
+ },
+ {
+   "value": "legs weak"
+ },
+ {
+   "value": "shaking in right hand"
+ },
+ {
+   "value": "urinary hesitancy"
+ },
+ {
+   "value": "Left forearm achiness "
+ },
+ {
+   "value": "Breast lumps"
+ },
+ {
+   "value": "muscular pain"
+ },
+ {
+   "value": "intense unexplained fatigue"
+ },
+ {
+   "value": "edema lower legs"
+ },
+ {
+   "value": "neuropathy feet"
+ },
+ {
+   "value": "Food Selectivity"
+ },
+ {
+   "value": "Surgery obsessions"
+ },
+ {
+   "value": "Loss of time"
+ },
+ {
+   "value": "Migralepsy"
+ },
+ {
+   "value": "Scary pressure & buzzing in head"
+ },
+ {
+   "value": "Right Groin Pain"
+ },
+ {
+   "value": "Irregular Periods"
+ },
+ {
+   "value": "Nap(s)"
+ },
+ {
+   "value": "restlessness/hurriedness/impatience"
+ },
+ {
+   "value": "tachycardic"
+ },
+ {
+   "value": "numbness or tingling in hands or feet"
+ },
+ {
+   "value": "feel like crying"
+ },
+ {
+   "value": "Shoulder Blade Pain"
+ },
+ {
+   "value": "fast heartbeat"
+ },
+ {
+   "value": "feeling defeated"
+ },
+ {
+   "value": "achy hip"
+ },
+ {
+   "value": "eyes burning "
+ },
+ {
+   "value": "ataxia"
+ },
+ {
+   "value": "clumsy, uncoordinated, and accident prone"
+ },
+ {
+   "value": "chronic fatigue syndrome"
+ },
+ {
+   "value": "Overall Crappiness"
+ },
+ {
+   "value": "belly pain"
+ },
+ {
+   "value": "Specific Pain"
+ },
+ {
+   "value": "bowels urgency"
+ },
+ {
+   "value": "postnasal drip"
+ },
+ {
+   "value": "Pelvis pain"
+ },
+ {
+   "value": "Nervous system alert"
+ },
+ {
+   "value": "Dysphasia"
+ },
+ {
+   "value": "phlegm/ mucus cough up"
+ },
+ {
+   "value": "Nasal sores"
+ },
+ {
+   "value": "difficulty eating "
+ },
+ {
+   "value": "skin ulcers"
+ },
+ {
+   "value": "shooting thighs"
+ },
+ {
+   "value": "lack of spoons"
+ },
+ {
+   "value": "Numbness/Tingling in Feet"
+ },
+ {
+   "value": "walking on tip toes"
+ },
+ {
+   "value": "stomach issues"
+ },
+ {
+   "value": "uterine cramps"
+ },
+ {
+   "value": "Left lower abdominal pain"
+ },
+ {
+   "value": "right toe pain"
+ },
+ {
+   "value": "pressure in hip"
+ },
+ {
+   "value": "left finger pain"
+ },
+ {
+   "value": "wheezey"
+ },
+ {
+   "value": "short temper"
+ },
+ {
+   "value": "Anxious thoughts"
+ },
+ {
+   "value": "intention tremour"
+ },
+ {
+   "value": "Red streaks on the skin"
+ },
+ {
+   "value": "subluxations"
+ },
+ {
+   "value": "Blood pressure"
+ },
+ {
+   "value": "Defiance"
+ },
+ {
+   "value": "Narcissism"
+ },
+ {
+   "value": "After Images"
+ },
+ {
+   "value": "Plaques"
+ },
+ {
+   "value": "severe pain in sstomach "
+ },
+ {
+   "value": "cracking back"
+ },
+ {
+   "value": "cold toes"
+ },
+ {
+   "value": "fuzzy"
+ },
+ {
+   "value": "Urge to self harm"
+ },
+ {
+   "value": "Menstrual migraine"
+ },
+ {
+   "value": "Burning knees"
+ },
+ {
+   "value": "face burning"
+ },
+ {
+   "value": "Right Elbow Ache"
+ },
+ {
+   "value": "sweating at night"
+ },
+ {
+   "value": "difficulty moving"
+ },
+ {
+   "value": "Sleep difficulties"
+ },
+ {
+   "value": "loss of taste/smell"
+ },
+ {
+   "value": "pain in knees"
+ },
+ {
+   "value": "Brain inflamed sensation"
+ },
+ {
+   "value": "left knee swelling"
+ },
+ {
+   "value": "Wrist pain left"
+ },
+ {
+   "value": "left ankle/foot pain"
+ },
+ {
+   "value": "Adrenaline surges"
+ },
+ {
+   "value": "Shooting pain in head"
+ },
+ {
+   "value": "right ankle/foot pain"
+ },
+ {
+   "value": "deja vu sensation"
+ },
+ {
+   "value": "Burning lips"
+ },
+ {
+   "value": "Regurgitation"
+ },
+ {
+   "value": "bad apetite"
+ },
+ {
+   "value": "Swollen lip"
+ },
+ {
+   "value": "painful sex"
+ },
+ {
+   "value": "Tense jaw"
+ },
+ {
+   "value": "Vulvar Itching"
+ },
+ {
+   "value": "Shooting pain in shoulders and down arms"
+ },
+ {
+   "value": "derealisation"
+ },
+ {
+   "value": "cracked lips"
+ },
+ {
+   "value": "Joint Subluxations"
+ },
+ {
+   "value": "excessive itching"
+ },
+ {
+   "value": "tingling in face"
+ },
+ {
+   "value": "forehead headache"
+ },
+ {
+   "value": "Zaps"
+ },
+ {
+   "value": "Skin crawling"
+ },
+ {
+   "value": "Joint Pain toes"
+ },
+ {
+   "value": "swallow trouble"
+ },
+ {
+   "value": "Slept Badly"
+ },
+ {
+   "value": "Behavior disorder"
+ },
+ {
+   "value": "Nerve Pain Arms"
+ },
+ {
+   "value": "tachycardia surges"
+ },
+ {
+   "value": "general back aches"
+ },
+ {
+   "value": "myofascial pain"
+ },
+ {
+   "value": "swollen neck"
+ },
+ {
+   "value": "scalp sores and pain"
+ },
+ {
+   "value": "dolor lumbar"
+ },
+ {
+   "value": "Numbness on legs"
+ },
+ {
+   "value": "fidgeting"
+ },
+ {
+   "value": "Lightening bolt pain"
+ },
+ {
+   "value": "tense shoulders"
+ },
+ {
+   "value": "Red bumps on feet"
+ },
+ {
+   "value": "eye swelling "
+ },
+ {
+   "value": "Food Refusal"
+ },
+ {
+   "value": "right hand tingling"
+ },
+ {
+   "value": "pain in left arm"
+ },
+ {
+   "value": "urine retention"
+ },
+ {
+   "value": "Mental fatigue (fog)"
+ },
+ {
+   "value": "nighttime waking"
+ },
+ {
+   "value": "back muscle pain"
+ },
+ {
+   "value": "dolor muslo derecho"
+ },
+ {
+   "value": "dolor cervical"
+ },
+ {
+   "value": "empeine derecho"
+ },
+ {
+   "value": "enpeine izquierdo"
+ },
+ {
+   "value": "achy muscles"
+ },
+ {
+   "value": "Gut issues"
+ },
+ {
+   "value": "Black-out Vision"
+ },
+ {
+   "value": "handwriting decline"
+ },
+ {
+   "value": "Wooziness"
+ },
+ {
+   "value": "Work related anxiety"
+ },
+ {
+   "value": "slowness of walking"
+ },
+ {
+   "value": "dolor muslo izquierdo"
+ },
+ {
+   "value": "Pelvic Floor Spasms"
+ },
+ {
+   "value": "Left Elbow "
+ },
+ {
+   "value": "vermoeidheid"
+ },
+ {
+   "value": "dolor dedos izquierda"
+ },
+ {
+   "value": "muscle cramps /twitching"
+ },
+ {
+   "value": "nose ulcer"
+ },
+ {
+   "value": "swallowing"
+ },
+ {
+   "value": "dolor vértebras"
+ },
+ {
+   "value": "Frustrated"
+ },
+ {
+   "value": "Pressure in head"
+ },
+ {
+   "value": "dolor omoplato izquierdo"
+ },
+ {
+   "value": "dolor isquion izquierdo"
+ },
+ {
+   "value": "dolor isquion derecho"
+ },
+ {
+   "value": "abdomen discomfort "
+ },
+ {
+   "value": "processing errors"
+ },
+ {
+   "value": "Attack naps "
+ },
+ {
+   "value": "Body temp dysfunction"
+ },
+ {
+   "value": "Change in appetite"
+ },
+ {
+   "value": "Unhappiness/Emotional"
+ },
+ {
+   "value": "standing on head"
+ },
+ {
+   "value": "aches/pains"
+ },
+ {
+   "value": "Temperature Intolerance"
+ },
+ {
+   "value": "Brain Fog Itching"
+ },
+ {
+   "value": "dolor brazo izquierdo"
+ },
+ {
+   "value": "emotional liability"
+ },
+ {
+   "value": "dolor rodilla derecha"
+ },
+ {
+   "value": "Machiavellianism"
+ },
+ {
+   "value": "Trigger Finger (right)"
+ },
+ {
+   "value": "GI discomfort"
+ },
+ {
+   "value": "dolor dedos derecha"
+ },
+ {
+   "value": "dolor rodilla izquierda"
+ },
+ {
+   "value": "dolor brazo derecho"
+ },
+ {
+   "value": "Shoulder ache / stiffness"
+ },
+ {
+   "value": "craving acid"
+ },
+ {
+   "value": "weak voice"
+ },
+ {
+   "value": "flashing lights"
+ },
+ {
+   "value": "bilateral leg pain"
+ },
+ {
+   "value": "nipples leaking"
+ },
+ {
+   "value": "Picking at skin"
+ },
+ {
+   "value": "subjective warm"
+ },
+ {
+   "value": "speaking difficulties"
+ },
+ {
+   "value": "left arm nerve pain"
+ },
+ {
+   "value": "dolor muñeca izquierda"
+ },
+ {
+   "value": "dolor muñeca derecha"
+ },
+ {
+   "value": "Passed Out"
+ },
+ {
+   "value": "headache symptom"
+ },
+ {
+   "value": "Hay Fever"
+ },
+ {
+   "value": "sudden body temperature changes"
+ },
+ {
+   "value": "word-finding difficulty"
+ },
+ {
+   "value": "vasovagal syncope"
+ },
+ {
+   "value": "hydration"
+ },
+ {
+   "value": "Low-grade fever"
+ },
+ {
+   "value": "Nihilistic"
+ },
+ {
+   "value": "Rectal Swelling"
+ },
+ {
+   "value": "Dysmotility"
+ },
+ {
+   "value": "flushed"
+ },
+ {
+   "value": "left foor twitching "
+ },
+ {
+   "value": "Drooling"
+ },
+ {
+   "value": "clitoral pain"
+ },
+ {
+   "value": "pain around tailbone"
+ },
+ {
+   "value": "red and hot cheeks"
+ },
+ {
+   "value": "Health Anxiety"
+ },
+ {
+   "value": "Nase läuft"
+ },
+ {
+   "value": "helplessness"
+ },
+ {
+   "value": "Excessive Burping"
+ },
+ {
+   "value": "Neck Instability"
+ },
+ {
+   "value": "chilled"
+ },
+ {
+   "value": "Facial Tingling"
+ },
+ {
+   "value": "hip flexor pain"
+ },
+ {
+   "value": "right foot tingling"
+ },
+ {
+   "value": "unsteady gait due to broken ankles"
+ },
+ {
+   "value": "Stomach pain (right)"
+ },
+ {
+   "value": "left ribs pain "
+ },
+ {
+   "value": "right jaw pain"
+ },
+ {
+   "value": "Jaw tension"
+ },
+ {
+   "value": "chest heaviness"
+ },
+ {
+   "value": "kopfschmerzen"
+ },
+ {
+   "value": "overwhelmed by chores"
+ },
+ {
+   "value": "neck weakness"
+ },
+ {
+   "value": "clumsy fingers"
+ },
+ {
+   "value": "sharp pain in hands"
+ },
+ {
+   "value": "Body dysmorphia or poor body image"
+ },
+ {
+   "value": "Acne rosacea"
+ },
+ {
+   "value": "raynauds feet"
+ },
+ {
+   "value": "throbbing pain in hands"
+ },
+ {
+   "value": "Project Work"
+ },
+ {
+   "value": "Right eye spasm"
+ },
+ {
+   "value": "SIJ (L) burning"
+ },
+ {
+   "value": "left leg/foot numbness "
+ },
+ {
+   "value": "generalised pain"
+ },
+ {
+   "value": "Obsessive Behavior"
+ },
+ {
+   "value": "Back pain (postural mid)"
+ },
+ {
+   "value": "Blurred vision right eye"
+ },
+ {
+   "value": "Dysmenorrhea"
+ },
+ {
+   "value": "Lack of stamina"
+ },
+ {
+   "value": "sore scalp"
+ },
+ {
+   "value": "Cold sores"
+ },
+ {
+   "value": "outer left calf pain"
+ },
+ {
+   "value": "right abdominal pain"
+ },
+ {
+   "value": "Bowel movement pain"
+ },
+ {
+   "value": "tingling/numbness in feet"
+ },
+ {
+   "value": "Lower back spasms"
+ },
+ {
+   "value": "carpal tunnel pain"
+ },
+ {
+   "value": "difficulty contentrating "
+ },
+ {
+   "value": "getting up at night"
+ },
+ {
+   "value": "Intestine burning"
+ },
+ {
+   "value": "elbow"
+ },
+ {
+   "value": "Intestine inflammation"
+ },
+ {
+   "value": "Pelvic bloat"
+ },
+ {
+   "value": "Pelvic (L) stabbing"
+ },
+ {
+   "value": "Lower back pain (L)"
+ },
+ {
+   "value": "cracking joints"
+ },
+ {
+   "value": "pain behind eyes"
+ },
+ {
+   "value": "feet"
+ },
+ {
+   "value": "Visual blackouts"
+ },
+ {
+   "value": "right foot cramp"
+ },
+ {
+   "value": "Phobias"
+ },
+ {
+   "value": "sensory overload:touch and sound"
+ },
+ {
+   "value": "Lower back pain (R)"
+ },
+ {
+   "value": "deep ache/ soreness /cramps"
+ },
+ {
+   "value": "SIJ (R) burning"
+ },
+ {
+   "value": "Pelvic (R) stabbing"
+ },
+ {
+   "value": "Dysautonomia"
+ },
+ {
+   "value": "dyskinesia"
+ },
+ {
+   "value": "Pelvic (L) burning"
+ },
+ {
+   "value": "Pelvic (R) pulling"
+ },
+ {
+   "value": "Pelvic (R) burning"
+ },
+ {
+   "value": "tingling lips"
+ },
+ {
+   "value": "fearfulness"
+ },
+ {
+   "value": "costal margin pain"
+ },
+ {
+   "value": "pins and needles fingers"
+ },
+ {
+   "value": "Left Shoulder Dislocation"
+ },
+ {
+   "value": "grimacing (tic)"
+ },
+ {
+   "value": "bad breathing"
+ },
+ {
+   "value": "Pelvic (L) pulling"
+ },
+ {
+   "value": "heavy extremities"
+ },
+ {
+   "value": "Adrenaline effects"
+ },
+ {
+   "value": "sleep deprivation"
+ },
+ {
+   "value": "elopement"
+ },
+ {
+   "value": "Low Salt (itchy gums, cranky, sore muscles)"
+ },
+ {
+   "value": "lower back pain/ hips"
+ },
+ {
+   "value": "Nerve pain from neck to elbows"
+ },
+ {
+   "value": "anger/emotional bursts/"
+ },
+ {
+   "value": "Over Stimulation"
+ },
+ {
+   "value": "Ankle popping"
+ },
+ {
+   "value": "palpation "
+ },
+ {
+   "value": "sleep ‘low’ SPO2 below 88%"
+ },
+ {
+   "value": "mucous stool"
+ },
+ {
+   "value": "tingling calves"
+ },
+ {
+   "value": "Daytime exhaustion"
+ },
+ {
+   "value": "Ataxic gait"
+ },
+ {
+   "value": "sublaxation"
+ },
+ {
+   "value": "knees inflamed"
+ },
+ {
+   "value": "chronic back pain"
+ },
+ {
+   "value": "Food Intolerances"
+ },
+ {
+   "value": "All body stiff and achy"
+ },
+ {
+   "value": "hi post nasal drip"
+ },
+ {
+   "value": "Hoarse voice"
+ },
+ {
+   "value": "Faint"
+ },
+ {
+   "value": "arm tremors"
+ },
+ {
+   "value": "deep muscle aching all over"
+ },
+ {
+   "value": "Balance issues"
+ },
+ {
+   "value": "nose drip"
+ },
+ {
+   "value": "Trouble thinking/focusing/memory challenges"
+ },
+ {
+   "value": "Sore throat and hoarse"
+ },
+ {
+   "value": "swollen feet"
+ },
+ {
+   "value": "skin hurts"
+ },
+ {
+   "value": "heavy chest"
+ },
+ {
+   "value": "Insomnia (night before)"
+ },
+ {
+   "value": "chemical sensitivity"
+ },
+ {
+   "value": "sensitive teeth"
+ },
+ {
+   "value": "loose"
+ },
+ {
+   "value": "wrist pain without movement"
+ },
+ {
+   "value": "internal tremor"
+ },
+ {
+   "value": "Tingling in head"
+ },
+ {
+   "value": "Vaginal Itchiness"
+ },
+ {
+   "value": "high sleep heart rate"
+ },
+ {
+   "value": "Itchy palms"
+ },
+ {
+   "value": "PTSD attack"
+ },
+ {
+   "value": "Temperature control"
+ },
+ {
+   "value": "prickly skin"
+ },
+ {
+   "value": "Elevated HR"
+ },
+ {
+   "value": "Unable to make decisions"
+ },
+ {
+   "value": "Wired"
+ },
+ {
+   "value": "spleen pain"
+ },
+ {
+   "value": "Fluctuating tinnitus"
+ },
+ {
+   "value": "shooting pains"
+ },
+ {
+   "value": "Waking up too early"
+ },
+ {
+   "value": "Tired Legs"
+ },
+ {
+   "value": "pelvic dystonia"
+ },
+ {
+   "value": "jaw stiffness"
+ },
+ {
+   "value": "Dizziness/Faint"
+ },
+ {
+   "value": "Motivated"
+ },
+ {
+   "value": "Emotional State"
+ },
+ {
+   "value": "Erectile Dysfunction"
+ },
+ {
+   "value": "Operative-left-shoulder pain"
+ },
+ {
+   "value": "speech problems"
+ },
+ {
+   "value": "inflammatory arthritis"
+ },
+ {
+   "value": "Inability to be productive "
+ },
+ {
+   "value": "Numbness/Pins & Needles"
+ },
+ {
+   "value": "Cloudy thinking"
+ },
+ {
+   "value": "shoulder stiff or achy"
+ },
+ {
+   "value": "Numbness/Tingling in Hands"
+ },
+ {
+   "value": "swollen"
+ },
+ {
+   "value": "Over eating"
+ },
+ {
+   "value": "Tender muscles "
+ },
+ {
+   "value": "Sweaty hands"
+ },
+ {
+   "value": "nose numb "
+ },
+ {
+   "value": "psoriasis in scalp"
+ },
+ {
+   "value": "burning arms"
+ },
+ {
+   "value": "pain between shoulders"
+ },
+ {
+   "value": "upper left back pain"
+ },
+ {
+   "value": "loss of interest"
+ },
+ {
+   "value": "fatigue"
+ },
+ {
+   "value": "elbows or shoulders inflamed"
+ },
+ {
+   "value": "melancholy"
+ },
+ {
+   "value": "stomach gurgling"
+ },
+ {
+   "value": "Finger pain left"
+ },
+ {
+   "value": "bruising/bleeding"
+ },
+ {
+   "value": "stomach cramping"
+ },
+ {
+   "value": "Left ear itching"
+ },
+ {
+   "value": "Collapsing"
+ },
+ {
+   "value": "Tingling in arms and hands"
+ },
+ {
+   "value": "jumpy heartbeat"
+ },
+ {
+   "value": "morning achiness"
+ },
+ {
+   "value": "numbness arms"
+ },
+ {
+   "value": "empfindliche Haut"
+ },
+ {
+   "value": "hirsutism"
+ },
+ {
+   "value": "Rapid heatbeat"
+ },
+ {
+   "value": "bleeding nose"
+ },
+ {
+   "value": "trapezius pain"
+ },
+ {
+   "value": "lower belly pain"
+ },
+ {
+   "value": "stabbing low back pain"
+ },
+ {
+   "value": "Speech Difficulties"
+ },
+ {
+   "value": "Sensitivity to Heat"
+ },
+ {
+   "value": "bone ache"
+ },
+ {
+   "value": "Left Eyelid Twitch"
+ },
+ {
+   "value": "burning in head"
+ },
+ {
+   "value": "flemy"
+ },
+ {
+   "value": "Chest discomfort"
+ },
+ {
+   "value": "Chest/heart pain"
+ },
+ {
+   "value": "extreme menstrual cramps"
+ },
+ {
+   "value": "Laziness"
+ },
+ {
+   "value": "puffy vagina"
+ },
+ {
+   "value": "confused"
+ },
+ {
+   "value": "pain in pelvic floor"
+ },
+ {
+   "value": "kidney stones"
+ },
+ {
+   "value": "clicking joints"
+ },
+ {
+   "value": "Low Productivity"
+ },
+ {
+   "value": "digestion"
+ },
+ {
+   "value": "dry hair"
+ },
+ {
+   "value": "itchy rash"
+ },
+ {
+   "value": "Sleep dysfunction"
+ },
+ {
+   "value": "left lower back pain"
+ },
+ {
+   "value": "phantom smells"
+ },
+ {
+   "value": "waking up during the night"
+ },
+ {
+   "value": "Right hand joint pain"
+ },
+ {
+   "value": "head swelling"
+ },
+ {
+   "value": "Uterine pain"
+ },
+ {
+   "value": "Tremor in hands"
+ },
+ {
+   "value": "stomach (upper) discomfort"
+ },
+ {
+   "value": "swollen tongue/mouth"
+ },
+ {
+   "value": "migraine - actual headache"
+ },
+ {
+   "value": "right ear stopped up"
+ },
+ {
+   "value": "increased rate of speech"
+ },
+ {
+   "value": "e - floating"
+ },
+ {
+   "value": "Accidential Hyperextentions"
+ },
+ {
+   "value": "Fluctuating tinnitus (right ear)"
+ },
+ {
+   "value": "teeth hurting"
+ },
+ {
+   "value": "breasts enlarged"
+ },
+ {
+   "value": "Freezing Cold"
+ },
+ {
+   "value": "Black Spots"
+ },
+ {
+   "value": "Respiratory symptoms"
+ },
+ {
+   "value": "Gay Thoughts"
+ },
+ {
+   "value": "Stomach Pain /Pressure Before Peeing"
+ },
+ {
+   "value": "Ice Pick Migraine"
+ },
+ {
+   "value": "Scalp Acne"
+ },
+ {
+   "value": "Menstrual clotting"
+ },
+ {
+   "value": "Ankle locking"
+ },
+ {
+   "value": "itchy bum"
+ },
+ {
+   "value": "Fatigue."
+ },
+ {
+   "value": "nauseated"
+ },
+ {
+   "value": "Balance/Tripping"
+ },
+ {
+   "value": "Eye ache"
+ },
+ {
+   "value": "Gallbladder pain"
+ },
+ {
+   "value": "fatigue afternoon"
+ },
+ {
+   "value": "Messing with Nails "
+ },
+ {
+   "value": "epigastric pain"
+ },
+ {
+   "value": "Overly emotional"
+ },
+ {
+   "value": "Blocked ears"
+ },
+ {
+   "value": "Went Number Two"
+ },
+ {
+   "value": "Heart Rate Spikes"
+ },
+ {
+   "value": "Finger Aches"
+ },
+ {
+   "value": "Pelvic Floor Flare-Up"
+ },
+ {
+   "value": "Pelvis Subluxing"
+ },
+ {
+   "value": "SIJ subluxing"
+ },
+ {
+   "value": "general unwellness"
+ },
+ {
+   "value": "Ondt i venstre knæ "
+ },
+ {
+   "value": "Foot fungus"
+ },
+ {
+   "value": "Musearm "
+ },
+ {
+   "value": "Ondt i højre knæ"
+ },
+ {
+   "value": "Kombineret gang og cykling 0 0,5 1 1,5 2+"
+ },
+ {
+   "value": "insomnia night before"
+ },
+ {
+   "value": "pain in right arm"
+ },
+ {
+   "value": "Atlas Pain"
+ },
+ {
+   "value": "Obssesed with Organization"
+ },
+ {
+   "value": "difficulty finding words"
+ },
+ {
+   "value": "Hemerroids"
+ },
+ {
+   "value": "General body pain"
+ },
+ {
+   "value": "cold/heat “flashes”"
+ },
+ {
+   "value": "Tilsyring"
+ },
+ {
+   "value": "Dobbelt syn "
+ },
+ {
+   "value": "Impulsiveness"
+ },
+ {
+   "value": "hot hands"
+ },
+ {
+   "value": "Sexual activity"
+ },
+ {
+   "value": "Forstoppelse "
+ },
+ {
+   "value": "Low Urine Output Per Time"
+ },
+ {
+   "value": "Frequent Urination throughout Night"
+ },
+ {
+   "value": "upper torso pain"
+ },
+ {
+   "value": "Painful gas"
+ },
+ {
+   "value": "Hovedpine"
+ },
+ {
+   "value": "Diaré "
+ },
+ {
+   "value": "difficulty swallowing food without water"
+ },
+ {
+   "value": "Arthritic pain"
+ },
+ {
+   "value": "left glute pain"
+ },
+ {
+   "value": "chest sore upon waking"
+ },
+ {
+   "value": "Difficulty making decisions"
+ },
+ {
+   "value": "armss hurting on top same place both sides "
+ },
+ {
+   "value": "Abdomen pain"
+ },
+ {
+   "value": "sweating hot and cold"
+ },
+ {
+   "value": "bowel spasms"
+ },
+ {
+   "value": "Gang 0 0,5 1 1,5 2+"
+ },
+ {
+   "value": "body fatigue"
+ },
+ {
+   "value": "Inflammation in joints"
+ },
+ {
+   "value": "hand ache"
+ },
+ {
+   "value": "finger ache"
+ },
+ {
+   "value": "Excessive Dropping Things"
+ },
+ {
+   "value": "pain sensitivity "
+ },
+ {
+   "value": "Craving sugar"
+ },
+ {
+   "value": "numbness in face"
+ },
+ {
+   "value": "poor poop"
+ },
+ {
+   "value": "numbness in arm and/or hand"
+ },
+ {
+   "value": "Vaginal stabbing"
+ },
+ {
+   "value": "stiff waking up"
+ },
+ {
+   "value": "ulcers"
+ },
+ {
+   "value": "Razor pains"
+ },
+ {
+   "value": "pain in upper left side"
+ },
+ {
+   "value": "Ankle pain right"
+ },
+ {
+   "value": "pain after sex"
+ },
+ {
+   "value": "Patchy hands"
+ },
+ {
+   "value": "Myotonia"
+ },
+ {
+   "value": "sharp headache"
+ },
+ {
+   "value": "ŕìb pain"
+ },
+ {
+   "value": "bladder pains"
+ },
+ {
+   "value": "tiredness/sleep"
+ },
+ {
+   "value": "Mouth metallic taste"
+ },
+ {
+   "value": "dyspnea"
+ },
+ {
+   "value": "emotional outburst"
+ },
+ {
+   "value": "right leg aching "
+ },
+ {
+   "value": "emotional stress"
+ },
+ {
+   "value": "Leg ache"
+ },
+ {
+   "value": "cold achy legs"
+ },
+ {
+   "value": "Pressure"
+ },
+ {
+   "value": "eczema on hand"
+ },
+ {
+   "value": "eye twitching"
+ },
+ {
+   "value": "contipation"
+ },
+ {
+   "value": "e - cliffbed"
+ },
+ {
+   "value": "Body Temperature Change"
+ },
+ {
+   "value": "Menstration"
+ },
+ {
+   "value": "Muscle weakness and or feeling sour"
+ },
+ {
+   "value": "Skin burning below surface"
+ },
+ {
+   "value": "Eyes bloodshot"
+ },
+ {
+   "value": "Pain - legs"
+ },
+ {
+   "value": "Leg heaviness"
+ },
+ {
+   "value": "sharp pain right toe joint"
+ },
+ {
+   "value": "pain in shoulder"
+ },
+ {
+   "value": "base of skull pain"
+ },
+ {
+   "value": "Trouble swallowing solids"
+ },
+ {
+   "value": "wrist ache"
+ },
+ {
+   "value": "Seizure Aura"
+ },
+ {
+   "value": "day sweats"
+ },
+ {
+   "value": "Swollen right knee"
+ },
+ {
+   "value": "feeling of stress (but no real stress)"
+ },
+ {
+   "value": "vision black"
+ },
+ {
+   "value": "Knee Pain (R)"
+ },
+ {
+   "value": "Dental Issues"
+ },
+ {
+   "value": "neck pain left side"
+ },
+ {
+   "value": "Skin changes in appearance "
+ },
+ {
+   "value": "Sleep disturbance due to pain"
+ },
+ {
+   "value": "brain pain"
+ },
+ {
+   "value": "Random stabbing pains"
+ },
+ {
+   "value": "body tightness"
+ },
+ {
+   "value": "Tinnitis"
+ },
+ {
+   "value": "esophageal purge"
+ },
+ {
+   "value": "left abdominal pain"
+ },
+ {
+   "value": "Hot face"
+ },
+ {
+   "value": "lower esophageal sphincter spasm"
+ },
+ {
+   "value": "Neck papule"
+ },
+ {
+   "value": "Joint ache"
+ },
+ {
+   "value": "Itchy all over "
+ },
+ {
+   "value": "Sleep disturbance due to feeling wired"
+ },
+ {
+   "value": "defeat/helplessness"
+ },
+ {
+   "value": "Bones tender"
+ },
+ {
+   "value": "Organs - stabbing or constricting pains"
+ },
+ {
+   "value": "Rectum pain"
+ },
+ {
+   "value": "neuropothy"
+ },
+ {
+   "value": "Arm twitching"
+ },
+ {
+   "value": "increased urination"
+ },
+ {
+   "value": "Palilalia"
+ },
+ {
+   "value": "Bone pain (stabbing)"
+ },
+ {
+   "value": "sitting intolerance"
+ },
+ {
+   "value": "pressure in the head"
+ },
+ {
+   "value": "facial/neck muscle spasms"
+ },
+ {
+   "value": "nasal discharge"
+ },
+ {
+   "value": "worse in morning"
+ },
+ {
+   "value": "worse in evening"
+ },
+ {
+   "value": "tight neck muscles"
+ },
+ {
+   "value": "Cykling 0 0,5 1 1,5 2+"
+ },
+ {
+   "value": "right clavicle"
+ },
+ {
+   "value": "fatigue and weak legs "
+ },
+ {
+   "value": "sore teeth"
+ },
+ {
+   "value": "body tremors"
+ },
+ {
+   "value": "Equilibrium: dizziness"
+ },
+ {
+   "value": "baby talk"
+ },
+ {
+   "value": "Feelings of Escapism"
+ },
+ {
+   "value": "Chewing Difficulty"
+ },
+ {
+   "value": "Quickly tired"
+ },
+ {
+   "value": "pulled muscles"
+ },
+ {
+   "value": "right knee swelling"
+ },
+ {
+   "value": "esophageal fullness"
+ },
+ {
+   "value": "Microsleep"
+ },
+ {
+   "value": "stomach pain then diarreha "
+ },
+ {
+   "value": "neck cracking"
+ },
+ {
+   "value": "Neuropathic Pain (Legs)"
+ },
+ {
+   "value": "pallor"
+ },
+ {
+   "value": "twitchiness"
+ },
+ {
+   "value": "jaw dislocation"
+ },
+ {
+   "value": "applesauce"
+ },
+ {
+   "value": "stranded voice"
+ },
+ {
+   "value": "Sensitive Nipples"
+ },
+ {
+   "value": "Daytime Drowsiness"
+ },
+ {
+   "value": "Jerks"
+ },
+ {
+   "value": "red itchy eyes"
+ },
+ {
+   "value": "back and hip pain"
+ },
+ {
+   "value": "General pain/stiffness in whole body"
+ },
+ {
+   "value": "Gastroinstestinal Symptoms"
+ },
+ {
+   "value": "severe fatigue"
+ },
+ {
+   "value": "Ondt i halsen "
+ },
+ {
+   "value": "Bone pain (like knife scraping)"
+ },
+ {
+   "value": "indegestion"
+ },
+ {
+   "value": "stabbing back pain"
+ },
+ {
+   "value": "right SI pain"
+ },
+ {
+   "value": "achey bones"
+ },
+ {
+   "value": "drop foot"
+ },
+ {
+   "value": "sunburn"
+ },
+ {
+   "value": "Flickering right eye"
+ },
+ {
+   "value": "right leg twitching"
+ },
+ {
+   "value": "Blood Clots"
+ },
+ {
+   "value": "numbness head"
+ },
+ {
+   "value": "Bloated gut"
+ },
+ {
+   "value": "sleep attack"
+ },
+ {
+   "value": "eye discomfort"
+ },
+ {
+   "value": "Niesen"
+ },
+ {
+   "value": "wrist and hand pain"
+ },
+ {
+   "value": "GI Inflammation"
+ },
+ {
+   "value": "sura uppstötningar"
+ },
+ {
+   "value": "left SI pain"
+ },
+ {
+   "value": "Right hand stiffness"
+ },
+ {
+   "value": "cysts"
+ },
+ {
+   "value": "nervous"
+ },
+ {
+   "value": "overall joint looseness"
+ },
+ {
+   "value": "Knee Clicking"
+ },
+ {
+   "value": "Left hip discomfort"
+ },
+ {
+   "value": "painful bottom"
+ },
+ {
+   "value": "neuropathy hands"
+ },
+ {
+   "value": "Balance with movement"
+ },
+ {
+   "value": "phantom pain"
+ },
+ {
+   "value": "Feelings of Overwhelm"
+ },
+ {
+   "value": "visual hallucinations"
+ },
+ {
+   "value": "Bile burn"
+ },
+ {
+   "value": "Vulvar burning"
+ },
+ {
+   "value": "pelvis numb"
+ },
+ {
+   "value": "Pain- Wrists/Hands"
+ },
+ {
+   "value": "Left forearm stinging"
+ },
+ {
+   "value": "Left deltoid stinging"
+ },
+ {
+   "value": "Left lat tightness"
+ },
+ {
+   "value": "legs collapse"
+ },
+ {
+   "value": "Right forearm stinging"
+ },
+ {
+   "value": "Right deltoid stinging"
+ },
+ {
+   "value": "Right lat tightness"
+ },
+ {
+   "value": "numb arms/hands"
+ },
+ {
+   "value": "Non-burning pain"
+ },
+ {
+   "value": "tingling arm left"
+ },
+ {
+   "value": "middle back stiffness"
+ },
+ {
+   "value": "red mark on chin from brace"
+ },
+ {
+   "value": "memory disorder"
+ },
+ {
+   "value": "How was my day over all?"
+ },
+ {
+   "value": "Exceptionally sad"
+ },
+ {
+   "value": "Ptosis"
+ },
+ {
+   "value": "foot neuropathic pain"
+ },
+ {
+   "value": "left leg giving out"
+ },
+ {
+   "value": "hip cramping"
+ },
+ {
+   "value": "Pain after bowel movement"
+ },
+ {
+   "value": "social avoidance"
+ },
+ {
+   "value": "soft"
+ },
+ {
+   "value": "Loose/Sensitive Joints"
+ },
+ {
+   "value": "all over joint pain"
+ },
+ {
+   "value": "Tmj"
+ },
+ {
+   "value": "Headache Normal"
+ },
+ {
+   "value": "involuntary muscle twitching"
+ },
+ {
+   "value": "sore left big toe"
+ },
+ {
+   "value": "blind spots"
+ },
+ {
+   "value": "Acidic burn"
+ },
+ {
+   "value": "cold sweat"
+ },
+ {
+   "value": "abdominal pressure"
+ },
+ {
+   "value": "sneezing/runny nose"
+ },
+ {
+   "value": "hands shaking"
+ },
+ {
+   "value": "Cramping Uterus"
+ },
+ {
+   "value": "breathlessness when exercising"
+ },
+ {
+   "value": "demotivation"
+ },
+ {
+   "value": "Unfocused"
+ },
+ {
+   "value": "Insomnia, previous night"
+ },
+ {
+   "value": "ice pick headache "
+ },
+ {
+   "value": "Feeling Like I Have to Pee Right After Peeing"
+ },
+ {
+   "value": "Stye"
+ },
+ {
+   "value": "Sexual interest"
+ },
+ {
+   "value": "Shin splints"
+ },
+ {
+   "value": "Right forearm achiness"
+ },
+ {
+   "value": "stiff toes"
+ },
+ {
+   "value": "Left heel pain "
+ },
+ {
+   "value": "screaming"
+ },
+ {
+   "value": "Restless body"
+ },
+ {
+   "value": "runs"
+ },
+ {
+   "value": "Neuropathy Legs"
+ },
+ {
+   "value": "BM Hard"
+ },
+ {
+   "value": "Scleritis"
+ },
+ {
+   "value": "Focus Problems"
+ },
+ {
+   "value": "Sense of swelling in hands"
+ },
+ {
+   "value": "death cramps"
+ },
+ {
+   "value": "Speech stuttering"
+ },
+ {
+   "value": "facial nerve pain"
+ },
+ {
+   "value": "hormonal"
+ },
+ {
+   "value": "Negative Thinking"
+ },
+ {
+   "value": "Instability"
+ },
+ {
+   "value": "pain under ribs"
+ },
+ {
+   "value": "Synsforstyrrelser "
+ },
+ {
+   "value": "Hip / lower back pain"
+ },
+ {
+   "value": "Right Kidney Pain"
+ },
+ {
+   "value": "sore right hip"
+ },
+ {
+   "value": "BM Soft"
+ },
+ {
+   "value": "tight right hamstring"
+ },
+ {
+   "value": "odd abdominal pain "
+ },
+ {
+   "value": "scalp rash"
+ },
+ {
+   "value": "illness"
+ },
+ {
+   "value": "pain in upper legs"
+ },
+ {
+   "value": "Perseveration"
+ },
+ {
+   "value": "RL upper kinking"
+ },
+ {
+   "value": "numbness in limbs"
+ },
+ {
+   "value": "itchy foot right"
+ },
+ {
+   "value": "Pain- Upper back"
+ },
+ {
+   "value": "Vulvar numbness"
+ },
+ {
+   "value": "Abdominal tenderness"
+ },
+ {
+   "value": "secrecy"
+ },
+ {
+   "value": "Pain - legs (muscle & joint)"
+ },
+ {
+   "value": "involuntary movements"
+ },
+ {
+   "value": "Bad Stomach ache"
+ },
+ {
+   "value": "arthralgia"
+ },
+ {
+   "value": "eye socket ache"
+ },
+ {
+   "value": "sudden dry throat"
+ },
+ {
+   "value": "clammy"
+ },
+ {
+   "value": "generalized anxiety disorder"
+ },
+ {
+   "value": "Nail clubbing"
+ },
+ {
+   "value": "facial neuralgia"
+ },
+ {
+   "value": "Cold Hands & Feet"
+ },
+ {
+   "value": "low bp"
+ },
+ {
+   "value": "woken by dry throat last night"
+ },
+ {
+   "value": "can't keep eyes open"
+ },
+ {
+   "value": "Hand tingling"
+ },
+ {
+   "value": "food texture aversions"
+ },
+ {
+   "value": "Systemic itching "
+ },
+ {
+   "value": "stomach swelling"
+ },
+ {
+   "value": "Neck clicking"
+ },
+ {
+   "value": "armpit pain"
+ },
+ {
+   "value": "Urinary Issues"
+ },
+ {
+   "value": "pain after urinating"
+ },
+ {
+   "value": "Lack of mental clarity"
+ },
+ {
+   "value": "sinus drip"
+ },
+ {
+   "value": "General light-headedness"
+ },
+ {
+   "value": "Joint subluxation acute pain"
+ },
+ {
+   "value": "eye inflammation"
+ },
+ {
+   "value": "Weeping"
+ },
+ {
+   "value": "aching muscles"
+ },
+ {
+   "value": "clavicle lymph nodes"
+ },
+ {
+   "value": "Rawness/Vulnerability"
+ },
+ {
+   "value": "Skin Blemish "
+ },
+ {
+   "value": "Anxiety Sweats"
+ },
+ {
+   "value": "numb"
+ },
+ {
+   "value": "Spacial Awareness "
+ },
+ {
+   "value": "Sacroilitis "
+ },
+ {
+   "value": "Locked Jaw"
+ },
+ {
+   "value": "Fevers"
+ },
+ {
+   "value": "Neuropathy Torso"
+ },
+ {
+   "value": "Obsessive Food Thoughts"
+ },
+ {
+   "value": "Occipital Pain"
+ },
+ {
+   "value": "Bedtime"
+ },
+ {
+   "value": "eyebrow playing"
+ },
+ {
+   "value": "Pruritus"
+ },
+ {
+   "value": "Neuropathy Arms"
+ },
+ {
+   "value": "soles of feet sore"
+ },
+ {
+   "value": "rash/hives"
+ },
+ {
+   "value": "Nerve compression symptoms"
+ },
+ {
+   "value": "Neuropathy Face/Head"
+ }
+]

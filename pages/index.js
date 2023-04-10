@@ -10,11 +10,8 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   const [selectedSymptoms, setSelectedSymptoms] = useState();
   const [selectedSex, setSelectedSex] = useState();
+  const [symptomsList, setSymptomsList] = useState(initSymptoms());
 
-  const symptomsList = [
-    {value: 'Fever', label: 'Fever'},
-    {value: 'Chills', label: 'Chills'}
-  ];
 
   function handleSelect(symptoms) {
     setSelectedSymptoms(symptoms);
@@ -27,6 +24,12 @@ export default function Home() {
   function handleSubmit(event) {
     event.preventDefault();
     console.log(selectedSymptoms, selectedSex);
+  }
+
+  function initSymptoms() {
+    var symptoms = require('../public/symptomsList.json')
+    symptoms = symptoms.map((symptom) => {return {value: symptom.value, label: symptom.value}})
+    return symptoms;
   }
 
   return (
@@ -47,6 +50,7 @@ export default function Home() {
               <h2 className={styles.label}>Select your symptoms</h2>
               <div className={styles.selectContainer}>
                 <Select 
+                  id="symptomsSelector"
                   options={symptomsList}
                   placeholder="Select Symptoms"
                   value={selectedSymptoms}
