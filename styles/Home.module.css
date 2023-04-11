@@ -83,6 +83,10 @@
   margin-bottom: 10px;
 }
 
+.radioLabel {
+  margin-left: 5px;
+}
+
 .selectContainer {
   width: 300px;
 }
@@ -111,6 +115,19 @@
 .button {
   padding: 5px;
   margin-top: 10px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
 }
 
 .center::before {
