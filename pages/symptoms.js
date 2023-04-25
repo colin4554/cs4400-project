@@ -24,15 +24,22 @@ const Symptoms = (props) => {
       event.preventDefault();
       console.log(selectedSymptoms, selectedSex);
       try {
-        let symptoms = selectedSymptoms.map(symptom => symptom.value);
-        console.log(symptoms)
-        const response = await fetch("/api/hello", {
-          method: "POST",
-          body: {symptoms: symptoms, sex: selectedSex}
+        let symptoms = selectedSymptoms.map(symptom => symptom.value.toLowerCase());
+        console.log(symptoms);
+        const postData = async () => {
+          const data = {
+            symptoms: symptoms, gender: selectedSex.toLowerCase()
+          };
+    
+          const response = await fetch("/api/hello", {
+            method: "POST",
+            body: JSON.stringify(data),
+          });
+          return response.json();
+        };
+        postData().then((data) => {
+          props.onHandleData(data);
         });
-        const data = await response.json();
-        console.log(data);
-        props.onHandleData(data);
       } catch (err) {
         console.log(err);
       }

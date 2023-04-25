@@ -39,7 +39,7 @@ const Conditions = (props) => {
                             <div>
                                 {condition.treatments && condition.treatments.map(treatment => (
                                     <li key={treatment}>
-                                        {treatment.charAt(0).toUpperCase() + treatment.slice(1)}{treatment.dosage && <span> - {treatment.dosage}</span>}
+                                        {treatment.name.charAt(0).toUpperCase() + treatment.name.slice(1)}{treatment.dosage && <span> - {treatment.dosage}</span>}
                                     </li>
                                 ))}
                             </div>
