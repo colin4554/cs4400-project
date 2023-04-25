@@ -24,9 +24,11 @@ const Symptoms = (props) => {
       event.preventDefault();
       console.log(selectedSymptoms, selectedSex);
       try {
+        let symptoms = selectedSymptoms.map(symptom => symptom.value);
+        console.log(symptoms)
         const response = await fetch("/api/hello", {
           method: "POST",
-          body: {symptoms: selectedSymptoms, sex: selectedSex}
+          body: {symptoms: symptoms, sex: selectedSex}
         });
         const data = await response.json();
         console.log(data);

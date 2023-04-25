@@ -34,12 +34,12 @@ const Conditions = (props) => {
             <div className={styles.inputBlock}>
                 <div className={styles.row}>
                     {data && data.map((condition, index) => (
-                        <div key={condition.condition} className={styles.col}>
-                            <h2 className={styles.label}>{(index + 1)+ '. ' + condition.condition.charAt(0).toUpperCase() + condition.condition.slice(1)}</h2>
+                        <div key={condition.name} className={styles.col}>
+                            <h2 className={styles.label}>{(index + 1)+ '. ' + condition.name.charAt(0).toUpperCase() + condition.name.slice(1)}</h2>
                             <div>
                                 {condition.treatments && condition.treatments.map(treatment => (
-                                    <li key={treatment.treatment}>
-                                        {treatment.treatment.charAt(0).toUpperCase() + treatment.treatment.slice(1)}{treatment.dosage && <span> - {treatment.dosage}</span>}
+                                    <li key={treatment}>
+                                        {treatment.charAt(0).toUpperCase() + treatment.slice(1)}{treatment.dosage && <span> - {treatment.dosage}</span>}
                                     </li>
                                 ))}
                             </div>
