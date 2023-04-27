@@ -2,7 +2,7 @@
 https://www.kaggle.com/code/colinflueck/cs-4440-final-project-graph-db-data-proccesing/output 
 
 ## Application and Code
-We used nextJs. All packages should be installed by running npm install initially. 
+We used NextJs and [the starter boiler plate template from vercel](https://vercel.com/templates/next.js/nextjs-boilerplate) which helped us get a front end running quickly, so we could focus on the data and more interesting components of the project. All packages should be installed by running npm install initially.
 
 First, run the development server:
 
