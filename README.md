@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Data Cleaning & Processing
+https://www.kaggle.com/code/colinflueck/cs-4440-final-project-graph-db-data-proccesing/output 
 
 ## Getting Started
 
