@@ -78,9 +78,9 @@ Create a new role with basic Lambda permissions
     + ii. Select the VPC the DB is located in
     + iii. Select the subnets that have access to your DB
     + iv. choose the security group associated with your DB
-         *Note: Find VPC,subnet, security info under Conectivitiy of the writer of Neptune DB
-         ** If needed make sure that security group allows inbound traffic from function, we have it set to allow all.
-         ** Click on the security group, edit inbound rules
+         * Note: Find VPC,subnet, security info under Conectivitiy of the writer of Neptune DB
+         * If needed make sure that security group allows inbound traffic from function, we have it set to allow all.
+         * Click on the security group, edit inbound rules
 3. On the console upload the deployment package 'NeptuneCS4440Function-c4e202fa-25a7-4bb7-9638-b604b834fa48.zip'
     * The deployment package should have everything installed aready
     * If not within the package run 'npm install axios' and 'npm install gremlin' and rezip the file and upload
