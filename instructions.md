@@ -19,6 +19,8 @@ Burstable classes
 db.t4g.medium
 
 Choose to create a notebook
+Create an IAM role
+Internet Access: SageMaker
 
 Assume default for things unspecified
 ```
@@ -47,10 +49,10 @@ https://docs.aws.amazon.com/neptune/latest/userguide/bulk-load.html
 4. Add the IAM role to the Neptune Cluster
 5. Create Amazon S3 VPC Endpoint in the same VPC as DB
 
-*Too long to add all config and code, step by step tnstructions here: 
+*Too long to add all config and code, step by step instructions here: 
 https://docs.aws.amazon.com/neptune/latest/userguide/bulk-load-tutorial-IAM.html
 
-6. After configuring the IAM role adn the S3 bucket use the notebook to load
+6. After configuring the IAM role and the S3 bucket use the notebook to load
 7. Go back to Neptune, Click on the notebook that was created
 8. Click actions -> Open Jupyter -> Neptune -> New -> Python 3
 9. In the Notebook, run %load
