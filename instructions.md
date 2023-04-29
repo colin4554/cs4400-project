@@ -27,7 +27,7 @@ Assume default for things unspecified
 
 ### Data Preparation
 
-Our orinial dataset and processed results
+Our original dataset and processed results:
 https://www.kaggle.com/code/colinflueck/cs-4440-final-project-graph-db-data-proccesing/output 
 
 Code used to format the data is:
@@ -37,7 +37,7 @@ The data files that were used in Neptune Bulk loader are:
 - dfVert1.csv (Symptoms and Conditions)
 - dfVert2.csv (Treatments)
 - dfEdge.csv
-    *Note the edge file is about 12MB, however, not sure if removing some of the data greatly affects query results
+    * Note the edge file is about 12MB, however, not sure if removing some of the data greatly affects query results
 
 ### Loading the data
 Using Neptune bulk loader:
@@ -63,7 +63,7 @@ Parallelism: Low
 Update Single Cardinality: False
 Submit
 ```
-Data should be loaded in if sucessful
+Data should be loaded in if sucessfull
 
 
 ### Setting up Neptune Connection through Lambda and API Gateway
