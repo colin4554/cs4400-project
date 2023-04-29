@@ -15,7 +15,7 @@ Templates:
 Development and Testing
 
 DB instance size:
-Bustable classes
+Burstable classes
 db.t4g.medium
 
 Choose to create a notebook
