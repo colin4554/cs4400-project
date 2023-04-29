@@ -73,6 +73,7 @@ Node.js 18.x
 Create a new role with basic Lambda permissions
 ```
 2. Set up the Lambda function to be in same VPC
+    
     i. On Lambda function console go to Configuration
     ii. Go to VPC -> edit
     ii. Select the VPC the DB is located in
