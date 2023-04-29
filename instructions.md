@@ -73,12 +73,11 @@ Node.js 18.x
 Create a new role with basic Lambda permissions
 ```
 2. Set up the Lambda function to be in same VPC
-    
-    i. On Lambda function console go to Configuration
-    ii. Go to VPC -> edit
-    ii. Select the VPC the DB is located in
-    iii. Select the subnets that have access to your DB
-    iv. choose the security group associated with your DB
+    + i. On Lambda function console go to Configuration
+    + ii. Go to VPC -> edit
+    + ii. Select the VPC the DB is located in
+    + iii. Select the subnets that have access to your DB
+    + iv. choose the security group associated with your DB
     * Find VPC,subnet, security info under Conectivitiy of the writer of Neptune DB
     * If needed make sure that security group allows inbound traffic from function, we have it set to allow all.
     * Click on the security group, edit inbound rules
